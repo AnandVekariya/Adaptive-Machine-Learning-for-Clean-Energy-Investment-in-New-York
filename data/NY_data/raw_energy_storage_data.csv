@@ -1,0 +1,178 @@
+Utility ID,Utility Name,Plant Code,Plant Name,State,County,Generator ID,Status,Technology,Prime Mover,Sector Name,Sector,Nameplate Capacity (MW),Summer Capacity (MW),Winter Capacity (MW),Operating Month,Operating Year,Nameplate Energy Capacity (MWh),Maximum Charge Rate (MW),Maximum Discharge Rate (MW),Storage Technology 1,Storage Technology 2,Storage Technology 3,Storage Technology 4,Nameplate Reactive Power Rating,Storage Enclosure Type,Arbitrage,Frequency Regulation,Load Following,Ramping / Spinning Reserve,Co-Located Renewable Firming,Transmission and Distribution Deferral,System Peak Shaving,Load Management,Voltage or Reactive Power Support,Backup Power,Excess Wind and Solar Generation,Year,AC Coupled,DC Coupled,DC Tightly Coupled,Independent,Direct Support of Another Unit,Direct Support Plant ID 1,Direct Support Gen ID 1,Direct Support Plant ID 2,Direct Support Gen ID 2,Direct Support Plant ID 3,Direct Support Gen ID 3,Support T&D Asset
+57031,Beacon Power LLC,57710,Stephentown Spindle,NY,Rensselaer,SRS1,OP,Flywheels,FW,IPP Non-CHP,2,20.0,20.0,20.0,1,2011,5,20,20,,,,,0,CS,,Y,,,,,,,,,,2016,,,,,,,,,,,,
+57031,Beacon Power LLC,57710,Stephentown Spindle,NY,Rensselaer,SRS1,OP,Flywheels,FW,IPP Non-CHP,2,20.0,20.0,20.0,1,2011,5,20,20,,,,,0,CS,,Y,,,,,,,,,,2017,,,,,,,,,,,,
+61364,Lockheed Martin RMS Syracuse,61739,Lockheed Martin RMS Syracuse,NY,Onondaga,SYR1,OP,Batteries,BA,Industrial Non-CHP,6,1.0,1.0,1.0,8,2017,1.3,1,1,LIB,,,,1,CS,Y,,,,,,Y,Y,,,,2017,,,,,,,,,,,,
+61978,Convergent Energy and Power LP,57710,Stephentown Spindle,NY,Rensselaer,SRS1,OP,Flywheels,FW,IPP Non-CHP,2,20.0,20.0,20.0,1,2011,5,20,20,,,,,0,CS,,Y,,,,,,,,,,2018,,,,,,,,,,,,
+61364,Lockheed Martin RMS Syracuse,61739,Lockheed Martin RMS Syracuse,NY,Onondaga,SYR1,OP,Batteries,BA,Industrial Non-CHP,6,1.0,1.0,1.0,8,2017,1.3,1,1,LIB,,,,1,CS,Y,,,,,,Y,Y,,,,2018,,,,,,,,,,,,
+62652,"East Hampton Energy Storage Center, LLC",62733,East Hampton Energy Storage Center,NY,Suffolk,BEH,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,8,2018,40,5,5,LIB,,,,5,BL,Y,,,Y,,,Y,,Y,,,2018,,,,,,,,,,,,
+61978,Convergent Energy and Power LP,57710,Stephentown Spindle,NY,Rensselaer,SRS1,OP,Flywheels,FW,IPP Non-CHP,2,20.0,20.0,20.0,1,2011,5,20,20,,,,,0,CS,,Y,,,,,,,,,,2019,,,,,,,,,,,,
+61364,Lockheed Martin RMS Syracuse,61739,Lockheed Martin RMS Syracuse,NY,Onondaga,SYR1,OP,Batteries,BA,Industrial Non-CHP,6,1.0,1.0,1.0,8,2017,1.3,1,1,LIB,,,,1,CS,Y,,,,,,Y,Y,,,,2019,,,,,,,,,,,,
+61687,"KCE NY 1, LLC",62147,KCE NY 1,NY,Saratoga,KNY1,OP,Batteries,BA,IPP Non-CHP,2,20.0,20.0,20.0,3,2019,8.4,20,20,LIB,,,,6.5,CS,,Y,,,,,,,,,,2019,,,,,,,,,,,,
+62652,"East Hampton Energy Storage Center, LLC",62733,East Hampton Energy Storage Center,NY,Suffolk,BEH,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,8,2018,40,5,5,LIB,,,,5,BL,Y,,,Y,,,Y,,Y,,,2019,,,,,,,,,,,,
+62651,"Montauk Energy Storage Center, LLC",62734,Montauk Energy Storage Center,NY,Suffolk,BME,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,2,2019,40,5,5,LIB,,,,0.7,BL,,,,,,,Y,,,,,2019,,,,,,,,,,,,
+56404,National Grid,62981,East Pulaski BESS,NY,Oswego,BESS,OP,Batteries,BA,Electric Utility,1,2.0,2.0,2.0,12,2018,4.2,2,2,LIB,,,,0.6,CS,,,Y,,,Y,Y,,,,,2019,,,,,,,,,,,,
+61978,Convergent Energy and Power LP,57710,Stephentown Spindle,NY,Rensselaer,SRS1,OP,Flywheels,FW,IPP Non-CHP,2,20.0,20.0,20.0,1,2011,5,20,20,,,,,0,CS,,Y,,,,,,,,,,2020,,,,,,,,,,,,
+61364,Lockheed Martin RMS Syracuse,61739,Lockheed Martin RMS Syracuse,NY,Onondaga,SYR1,OP,Batteries,BA,Industrial Non-CHP,6,1.0,1.0,1.0,8,2017,1.3,1,1,LIB,,,,1,CS,Y,,,,,,Y,Y,,,,2020,,,,,,,,,,,,
+61687,"KCE NY 1, LLC",62147,KCE NY 1,NY,Saratoga,KNY1,OP,Batteries,BA,IPP Non-CHP,2,20.0,20.0,20.0,3,2019,8.4,20,20,LIB,,,,6.5,CS,,Y,,,,,,,,,,2020,,,,,,,,,,,,
+62652,"East Hampton Energy Storage Center, LLC",62733,East Hampton Energy Storage Center,NY,Suffolk,BEH,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,8,2018,40,5,5,LIB,,,,5,BL,Y,,,Y,,,Y,,Y,,,2020,,,,,,,,,,,,
+62651,"Montauk Energy Storage Center, LLC",62734,Montauk Energy Storage Center,NY,Suffolk,BME,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,2,2019,40,5,5,LIB,,,,0.7,BL,,,,,,,Y,,,,,2020,,,,,,,,,,,,
+56404,National Grid,62981,East Pulaski BESS,NY,Oswego,BESS,OP,Batteries,BA,Electric Utility,1,2.0,2.0,2.0,12,2018,4.2,2,2,LIB,,,,0.6,CS,,,Y,,,Y,Y,,,,,2020,,,,,,,,,,,,
+61012,AES Distributed Energy,62999,"Finchville Solar, LLC Hybrid CSG",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,10,2020,4.4,1.9,1.9,LIB,,,,0,CT,,,,,,,,,,,Y,2020,,,,,,,,,,,,
+61012,AES Distributed Energy,63000,"RT 52 Walden Solar 1, LLC Hybrid",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,4.0,4.0,4.0,1,2020,8.8,3.9,3.9,LIB,,,,0,CT,,,,,,,,,,,Y,2020,,,,,,,,,,,,
+61012,AES Distributed Energy,63415,"Middletown Solar 1, LLC Hybrid CSG",NY,Orange,BATT,OP,Batteries,BA,IPP Non-CHP,2,1.6,1.6,1.6,12,2020,6.6,1.6,1.6,LIB,,,,0,CS,,,,,,,,,,,Y,2020,,,,,,,,,,,,
+63289,Key Capture Energy,63585,NY3 Battery,NY,Rockland,NY3,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,12,2020,12,3,3,LIB,,,,3,CS,,,,,,,,,,Y,,2020,,,,,,,,,,,,
+59474,BQ Energy LLC,63774,Mount Kisco Landfill Solar & Storage CSG,NY,Westchester,KISCB,OP,Batteries,BA,IPP Non-CHP,2,0.5,0.5,0.5,12,2020,2.1,0,0.7,LIB,,,,0,CS,,,Y,,Y,N,,,,,Y,2020,,,,,,,,,,,,
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B1,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,6,1970,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,Y,,2020,,,,,,,,,,,,
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B2,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,6,1970,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,Y,,2020,,,,,,,,,,,,
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B3,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,1,1998,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,Y,,2020,,,,,,,,,,,,
+61978,Convergent Energy and Power LP,57710,Stephentown Spindle,NY,Rensselaer,SRS1,OP,Flywheels,FW,IPP Non-CHP,2,20.0,20.0,20.0,1,2011,5,20,20,,,,,6.4,CS,,Y,,,,,,,,,,2021,,,,,,,,,,,,
+61364,Lockheed Martin RMS Syracuse,61739,Lockheed Martin RMS Syracuse,NY,Onondaga,SYR1,OP,Batteries,BA,Industrial Non-CHP,6,1.0,1.0,1.0,8,2017,1.3,1,1,LIB,,,,1,CS,Y,,,,,,Y,Y,,,,2021,,,,,,,,,,,,
+61687,"KCE NY 1, LLC",62147,KCE NY 1,NY,Saratoga,KNY1,OP,Batteries,BA,IPP Non-CHP,2,20.0,20.0,20.0,3,2019,8.4,20,20,LIB,,,,6.5,CS,,Y,,,,,,,,,,2021,,,,,,,,,,,,
+62652,"East Hampton Energy Storage Center, LLC",62733,East Hampton Energy Storage Center,NY,Suffolk,BEH,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,8,2018,40,5,5,LIB,,,,5,BL,Y,,,Y,,,Y,,Y,,,2021,,,,,,,,,,,,
+62651,"Montauk Energy Storage Center, LLC",62734,Montauk Energy Storage Center,NY,Suffolk,BME,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,2,2019,40,5,5,LIB,,,,0.7,BL,,,,,,,Y,,,,,2021,,,,,,,,,,,,
+4226,Consolidated Edison Co-NY Inc,62839,98th Street Battery Storage Station,NY,Queens,ESS98,OP,Batteries,BA,Electric Utility,1,2.0,1.8,1.8,6,2021,12,1,2,LIB,,,,2,CS,,,,,,,Y,,,,,2021,,,,,,,,,,,,
+56404,National Grid,62981,East Pulaski BESS,NY,Oswego,BESS,OP,Batteries,BA,Electric Utility,1,2.0,2.0,2.0,12,2018,4.2,2,2,LIB,,,,0.6,CS,,,Y,,,Y,Y,,,,,2021,,,,,,,,,,,,
+61012,AES Distributed Energy,62999,"Finchville Solar, LLC Hybrid CSG",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,10,2020,4.4,1.9,1.9,LIB,,,,0,CT,,,,,,,Y,,,,Y,2021,,,,,,,,,,,,
+61012,AES Distributed Energy,63000,"RT 52 Walden Solar 1, LLC Hybrid",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,4.0,4.0,4.0,1,2020,8.8,3.9,3.9,LIB,,,,0,CT,,,,,,,Y,,,,Y,2021,,,,,,,,,,,,
+61012,AES Distributed Energy,63415,"Middletown Solar 1, LLC Hybrid CSG",NY,Orange,BATT,OP,Batteries,BA,IPP Non-CHP,2,1.6,1.6,1.6,12,2020,6.6,1.6,1.6,LIB,,,,0,CS,,,,,,,Y,,,,Y,2021,,,,,,,,,,,,
+14154,Orange & Rockland Utils Inc,63585,NY3 Battery,NY,Rockland,NY3,OP,Batteries,BA,Electric Utility,1,3.0,3.0,3.0,12,2020,12,3,3,LIB,,,,3,CS,,,,,,,Y,Y,,N,,2021,,,,,,,,,,,,
+59474,BQ Energy LLC,63774,Mount Kisco Landfill Solar & Storage CSG,NY,Westchester,KISCB,OP,Batteries,BA,IPP Non-CHP,2,0.5,0.5,0.5,12,2020,2.1,0.5,0.7,LIB,,,,0.5,CS,,,Y,,Y,N,,,,,Y,2021,,,,,,,,,,,,
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B1,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,6,1970,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,Y,,2021,,,,,,,,,,,,
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B2,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,6,1970,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,Y,,2021,,,,,,,,,,,,
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B3,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,1,1998,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,Y,,2021,,,,,,,,,,,,
+63991,"DG New York CS, LLC",64374,Norwich Solar and Energy Storage CSG,NY,Chenango,NRWCB,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,9,2021,15,3,3,LIB,,,,2.6,CS,,,,,Y,,Y,,,,Y,2021,,,,,,,,,,,,
+63991,"DG New York CS, LLC",64453,Volney II,NY,Oswego,VOLES,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,2,2021,12,3,3,LIB,,,,2.6,CS,,,,,Y,,Y,,,,Y,2021,,,,,,,,,,,,
+61012,AES Distributed Energy,64719,Glenmere Lake,NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,6,2021,7.5,2,2,LIB,,,,0,CT,,,,,,,Y,,,,Y,2021,,,,,,,,,,,,
+61012,AES Distributed Energy,65217,South Goshen (Community Solar),NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,4.9,4.9,4.9,9,2021,17,4.9,4.9,LIB,,,,5,OT,,,,,,,,,,,Y,2021,,,,,,,,,,,,
+61978,Convergent Energy and Power LP,57710,Stephentown Spindle,NY,Rensselaer,SRS1,OP,Flywheels,FW,IPP Non-CHP,2,20.0,20.0,20.0,1,2011,5,20,20,,,,,6.4,CS,,Y,,,,,,,,,,2022,,,,,,,,,,,,
+61364,Lockheed Martin RMS Syracuse,61739,Lockheed Martin RMS Syracuse,NY,Onondaga,SYR1,OP,Batteries,BA,Industrial Non-CHP,6,1.0,1.0,1.0,8,2017,1.3,1,1,LIB,,,,1,CS,Y,,,,,,Y,Y,,,,2022,,,,,,,,,,,,
+61687,"KCE NY 1, LLC",62147,KCE NY 1,NY,Saratoga,KNY1,OP,Batteries,BA,IPP Non-CHP,2,20.0,20.0,20.0,3,2019,8.4,20,20,LIB,,,,6.5,CS,,Y,,,,,,,,,,2022,,,,,,,,,,,,
+62652,"East Hampton Energy Storage Center, LLC",62733,East Hampton Energy Storage Center,NY,Suffolk,BEH,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,8,2018,40,5,5,LIB,,,,5,BL,Y,,,Y,,,Y,,Y,,,2022,,,,,,,,,,,,
+62651,"Montauk Energy Storage Center, LLC",62734,Montauk Energy Storage Center,NY,Suffolk,BME,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,2,2019,40,5,5,LIB,,,,0.7,BL,,,,,,,Y,,,,,2022,,,,,,,,,,,,
+4226,Consolidated Edison Co-NY Inc,62839,98th Street Battery Storage Station,NY,Queens,ESS98,OP,Batteries,BA,Electric Utility,1,2.0,1.8,1.8,6,2021,12,1,2,LIB,,,,2,CS,,,,,,,Y,,,,,2022,,,,,,,,,,,,
+56404,National Grid,62981,East Pulaski BESS,NY,Oswego,BESS,OP,Batteries,BA,Electric Utility,1,2.0,2.0,2.0,12,2018,4.2,2,2,LIB,,,,0.6,CS,,,Y,,,Y,Y,,,,,2022,,,,,,,,,,,,
+61012,AES Distributed Energy,62999,"Finchville Solar, LLC Hybrid CSG",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,10,2020,4.4,1.9,1.9,LIB,,,,0.9,CT,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+61012,AES Distributed Energy,63000,"RT 52 Walden Solar 1, LLC Hybrid",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,4.0,4.0,4.0,1,2020,8.8,3.9,3.9,LIB,,,,0.9,CT,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+63107,"Lansing Renewables, LLC",63337,"Lansing Renewables, LLC",NY,Tompkins,14320,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,4,2022,3,3,3,LIB,,,,0,CT,,,,,,,,,,,Y,2022,,,,,,,,,,,,
+63110,"Owlville Creek Solar 2, LLC",63340,"Owlville Creek Solar 2, LLC",NY,Madison,20660,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,7,2022,12.8,3,3,LIB,,,,0,CS,,,,,,,,,,,Y,2022,,,,,,,,,,,,
+63111,"Owlville Creek Solar, LLC",63341,"Owlville Creek Solar, LLC",NY,Madison,20660,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,7,2022,12.8,3,3,LIB,,,,0,CS,,,,,,,,,,,Y,2022,,,,,,,,,,,,
+61012,AES Distributed Energy,63415,"Middletown Solar 1, LLC Hybrid CSG",NY,Orange,BATT,OP,Batteries,BA,IPP Non-CHP,2,1.6,1.6,1.6,12,2020,6.6,1.6,1.6,LIB,,,,0.9,CS,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+14154,Orange & Rockland Utils Inc,63585,NY3 Battery,NY,Rockland,NY3,OP,Batteries,BA,Electric Utility,1,3.0,3.0,3.0,12,2020,12,3,3,LIB,,,,3,CS,,,,,,,Y,Y,,N,,2022,,,,,,,,,,,,
+59474,BQ Energy LLC,63774,Mount Kisco Landfill Solar & Storage CSG,NY,Westchester,KISCB,OP,Batteries,BA,IPP Non-CHP,2,0.7,0.5,0.5,12,2020,2.1,0.5,0.7,LIB,,,,0.5,CS,,,Y,,Y,N,,,,,Y,2022,,,,,,,,,,,,
+63707,OYA Blanchard Road LLC,64084,Blanchard Road 1 Community Solar,NY,Jefferson,BR1S,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,Y,2022,,,,,,,,,,,,
+63708,OYA Blanchard Road 2 LLC,64087,Blanchard Road 2 Community Solar,NY,Jefferson,BR2S,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,Y,2022,,,,,,,,,,,,
+63709,OYA NYS Rte 12 LLC,64090,NYS Rte 12 Community Solar,NY,Jefferson,NR12S,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,Y,2022,,,,,,,,,,,,
+63711,OYA Great Lakes Seaway LLC,64092,Great Lakes Seaway Community Solar,NY,Jefferson,GLSS,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,Y,2022,,,,,,,,,,,,
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B1,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,6,1970,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,Y,,2022,,,,,,,,,,,,
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B2,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,6,1970,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,Y,,2022,,,,,,,,,,,,
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B3,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,1,1998,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,Y,,2022,,,,,,,,,,,,
+63991,"DG New York CS, LLC",64374,Norwich Solar and Energy Storage CSG,NY,Chenango,NRWCB,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,9,2021,15,3,3,LIB,,,,2.6,CS,,,,,Y,,Y,,,,Y,2022,,,,,,,,,,,,
+57365,Consolidated Edison Solutions Inc.,64442,Mt Pleasant Community Center,NY,Westchester,MPES,OP,Batteries,BA,IPP Non-CHP,2,0.7,0.7,0.7,11,2022,3,0.5,0.7,LIB,,,,0.5,CS,,,,,,,,,,,Y,2022,,,,,,,,,,,,
+63991,"DG New York CS, LLC",64453,Volney II,NY,Oswego,VOLES,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,2,2021,12,3,3,LIB,,,,2.6,CS,,,,,Y,,Y,,,,Y,2022,,,,,,,,,,,,
+49893,Invenergy Services LLC,64686,Orangeville Storage,NY,Wyoming,65002,OP,Batteries,BA,IPP Non-CHP,2,24.7,20.0,20.0,10,2022,20,20,20,LIB,,,,6.8,OT,,Y,,,,,,,,,,2022,,,,,,,,,,,,
+61012,AES Distributed Energy,64719,Glenmere Lake,NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,6,2021,7.5,2,2,LIB,,,,0.9,CT,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+61012,AES Distributed Energy,65217,South Goshen Community Solar,NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,4.5,4.5,4.5,9,2021,17,4.5,4.5,LIB,,,,5,OT,,,,,,,,,,,Y,2022,,,,,,,,,,,,
+65056,NY - Mines Press,65815,NY - Mines Press,NY,Westchester,MPBS,OP,Batteries,BA,IPP Non-CHP,2,1.0,1.0,1.0,6,2022,2.1,0.6,0.6,LIB,,,,1,CS,Y,,Y,,Y,Y,Y,,,,,2022,,,,,,,,,,,,
+61194,Generate Capital,66218,Dubois Solar (Hybrid),NY,Ulster,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,12,2020,4.4,2,2,LIB,,,,0,CS,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+61194,Generate Capital,66222,Landau II Solar (Hybrid),NY,Ulster,BAT,OP,Batteries,BA,IPP Non-CHP,2,4.0,4.0,4.0,12,2021,8.8,4,4,LIB,,,,0,CS,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+61194,Generate Capital,66228,Salt Point Solar (Hybrid),NY,Dutchess,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,1,2021,4.4,2,2,LIB,,,,0,CS,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+61194,Generate Capital,66232,Svenski Solar (Hybrid),NY,Orange,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,4,2022,4.4,2,2,LIB,,,,0,CS,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+61978,Convergent Energy and Power LP,66501,Cicero Energy Storage 1 LLC,NY,Onondaga,CCBA1,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,3,2022,20,5,5,LIB,,,,5,CS,,,,,,Y,Y,,,,Y,2022,,,,,,,,,,,,
+61978,Convergent Energy and Power LP,66503,Cicero Energy Storage 2 LLC,NY,Onondaga,CCBA2,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,3,2022,20,5,5,LIB,,,,5,CS,,,,,,Y,Y,,,,Y,2022,,,,,,,,,,,,
+64872,"Distributed Solar Development, LLC",66765,SCH County - (2B) 4982 Rynex Corners Rd,NY,Schenectady,3595B,OP,Batteries,BA,IPP Non-CHP,2,2.5,2.5,2.5,12,2020,10,2.5,2.5,LIB,,,,10,CS,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+64872,"Distributed Solar Development, LLC",66767,Source Power Company - Richland,NY,Oswego,4725B,OP,Batteries,BA,IPP Non-CHP,2,2.5,2.5,2.5,11,2021,9.5,2.5,2.5,LIB,,,,9.5,CS,,,,,,,Y,,,,Y,2022,,,,,,,,,,,,
+61978,Convergent Energy and Power LP,57710,Stephentown Spindle,NY,Rensselaer,SRS1,OP,Flywheels,FW,IPP Non-CHP,2,20.0,20.0,20.0,1,2011,15,20,20,,,,,6.4,CS,,Y,,,,,,,,,,2023,,,,,, ,, ,, ,,
+61364,Lockheed Martin RMS Syracuse,61739,Lockheed Martin RMS Syracuse,NY,Onondaga,SYR1,OP,Batteries,BA,Industrial Non-CHP,6,1.0,1.0,1.0,8,2017,1.3,1,1,LIB,,,,1,CS,Y,,,,,,PR,Y,,,,2023,,,,Y,N, ,, ,, ,,N
+61687,"KCE NY 1, LLC",62147,KCE NY 1,NY,Saratoga,KNY1,OP,Batteries,BA,IPP Non-CHP,2,20.0,20.0,20.0,3,2019,8.4,20,20,LIB,,,,6.5,CS,,PR,,,,,,,,,,2023,,,,Y,N, ,, ,, ,,N
+62652,"East Hampton Energy Storage Center, LLC",62733,East Hampton Energy Storage Center,NY,Suffolk,BEH,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,8,2018,40,5,5,LIB,,,,5,BL,Y,,,Y,,,Y,PR,Y,,,2023,,,,Y,N, ,, ,, ,,N
+62651,"Montauk Energy Storage Center, LLC",62734,Montauk Energy Storage Center,NY,Suffolk,BME,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,2,2019,40,5,5,LIB,,,,0.7,BL,,,,,,,Y,PR,,,,2023,,,,Y,N, ,, ,, ,,N
+4226,Consolidated Edison Co-NY Inc,62839,98th Street Battery Storage Station,NY,Queens,ESS98,OP,Batteries,BA,Electric Utility,1,2.0,1.8,1.8,6,2021,12,1,2,LIB,,,,2,CS,,,,,,,PR,,,,,2023,,,,Y,N, ,, ,, ,,Y
+56404,National Grid,62981,East Pulaski BESS,NY,Oswego,BESS,OP,Batteries,BA,Electric Utility,1,2.0,2.0,2.0,12,2018,4.2,2,2,LIB,,,,0.6,CS,,,Y,,,Y,PR,,,,,2023,,,,Y,N, ,, ,, ,,Y
+61012,AES Distributed Energy,62999,"Finchville Solar, LLC Hybrid CSG",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,10,2020,4.4,1.9,1.9,LIB,,,,0.9,CT,,,,,,,Y,,,,PR,2023,,,Y,,Y,62999,FINCH, ,, ,,N
+61012,AES Distributed Energy,63000,"RT 52 Walden Solar 1, LLC Hybrid",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,4.0,4.0,4.0,1,2020,8.8,3.9,3.9,LIB,,,,0.9,CT,,,,,,,Y,,,,PR,2023,Y,,,,Y,63000,WALDN, ,, ,,N
+15296,New York Power Authority,63238,Willis Battery Storage,NY,Franklin,WB1,OP,Batteries,BA,Electric Utility,1,20.0,20.0,20.0,7,2023,20,20,20,LIB,,,,19,CS,Y,,,PR,,,,,,,,2023,,,,Y,N, ,, ,, ,,N
+63107,"Lansing Renewables, LLC",63337,"Lansing Renewables, LLC",NY,Tompkins,14320,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,4,2022,3,3,3,LIB,,,,0,CT,,,,,,,,,,,PR,2023,,Y,,,Y,6004,, ,, ,,N
+63110,"Owlville Creek Solar 2, LLC",63340,"Owlville Creek Solar 2, LLC",NY,Madison,20660,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,7,2022,12.8,3,3,LIB,,,,0,CS,,,,,,,,,,,PR,2023,,Y,,,Y,63340,6609, ,, ,,N
+63111,"Owlville Creek Solar, LLC",63341,"Owlville Creek Solar, LLC",NY,Madison,20660,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,7,2022,12.8,3,3,LIB,,,,0,CS,,,,,,,,,,,PR,2023,,Y,,,Y,63341,20660, ,, ,,N
+61012,AES Distributed Energy,63415,"Middletown Solar 1, LLC Hybrid CSG",NY,Orange,BATT,OP,Batteries,BA,IPP Non-CHP,2,1.6,1.6,1.6,12,2020,6.6,1.6,1.6,LIB,,,,0.9,CS,,,,,,,Y,,,,PR,2023,,,Y,,Y,63415,CENTR, ,, ,,N
+14154,Orange & Rockland Utils Inc,63585,NY3 Battery,NY,Rockland,NY3,OP,Batteries,BA,Electric Utility,1,3.0,3.0,3.0,12,2020,12,3,3,LIB,,,,3,CS,Y,,,Y,,PR,Y,Y,,,,2023,,,,Y,N, ,, ,, ,,Y
+59474,BQ Energy LLC,63774,Mount Kisco Landfill Solar & Storage CSG,NY,Westchester,KISCB,OP,Batteries,BA,IPP Non-CHP,2,0.7,0.5,0.5,12,2020,2.1,0.5,0.7,LIB,,,,0.5,CS,,PR,Y,,Y,,,,,,Y,2023,,,,,N, ,, ,, ,,N
+63707,OYA Blanchard Road LLC,64084,Blanchard Road 1 Community Solar,NY,Jefferson,BR1S,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,PR,2023,,,Y,,Y,64084,BR1CS, ,, ,,N
+63708,OYA Blanchard Road 2 LLC,64087,Blanchard Road 2 Community Solar,NY,Jefferson,BR2S,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,PR,2023,,,Y,,N,64087,BR2CS, ,, ,,N
+63709,OYA NYS Rte 12 LLC,64090,NYS Rte 12 Community Solar,NY,Jefferson,NR12S,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,PR,2023,,,Y,,Y,64090,NYR12, ,, ,,N
+63711,OYA Great Lakes Seaway LLC,64092,Great Lakes Seaway Community Solar,NY,Jefferson,GLSS,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,PR,2023,,,Y,,Y,64092,GLSCS, ,, ,,N
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B1,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,6,1970,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,PR,,2023,,,,Y,N, ,, ,, ,,N
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B2,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,6,1970,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,PR,,2023,,,,Y,N, ,, ,, ,,N
+63873,Lincoln Medical and Mental Health Center,64291,Lincoln Medical and Mental Health Center,NY,Bronx,B3,OP,Batteries,BA,Commercial Non-CHP,4,1.0,1.0,1.0,1,1998,1,1,1,PBB,,,,0.8,BL,,,,,,,,,,PR,,2023,,,,Y,N, ,, ,, ,,N
+63991,"DG New York CS, LLC",64374,Norwich Solar and Energy Storage CSG,NY,Chenango,NRWCB,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,9,2021,15,3,3,LIB,,,,2.6,CS,,,,,Y,,Y,,,,PR,2023,,,Y,,Y,64374,NRWCH, ,, ,,N
+57365,Consolidated Edison Solutions Inc.,64442,Mt Pleasant Community Center,NY,Westchester,MPES,OP,Batteries,BA,IPP Non-CHP,2,0.7,0.7,0.7,11,2022,3,0.5,0.7,LIB,,,,0.5,CS,,,,,,,,,,,PR,2023,Y,,,,Y,64442,MPPV, ,, ,,N
+63991,"DG New York CS, LLC",64453,Volney II,NY,Oswego,VOLES,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,2,2021,12,3,3,LIB,,,,2.6,CS,,,,,Y,,Y,,,,PR,2023,,,Y,,Y,64453,VOLNE, ,, ,,N
+49893,Invenergy Services LLC,64686,Orangeville Storage,NY,Wyoming,65002,OP,Batteries,BA,IPP Non-CHP,2,24.7,20.0,20.0,10,2022,20,20,20,LIB,,,,6.8,OT,,Y,,,,,,,PR,,,2023,,Y,,,Y, ,, ,, ,,Y
+61012,AES Distributed Energy,64719,Glenmere Lake,NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,6,2021,7.5,2,2,LIB,,,,0.9,CT,,,,,,,Y,,,,PR,2023,,,Y,,Y,64719,GLNMR, ,, ,,N
+4226,Consolidated Edison Co-NY Inc,65035,Fox Hills Battery Station,NY,Richmond,ESSFH,OP,Batteries,BA,Electric Utility,1,7.5,7.5,7.5,9,2023,30,7.5,7.5,LIB,,,,7.5,CS,Y,,,Y,,,PR,,Y,,,2023,,,,Y,N, ,, ,, ,,Y
+61012,AES Distributed Energy,65217,South Goshen Community Solar,NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,4.5,4.5,4.5,9,2021,17,4.5,4.5,LIB,,,,5,OT,,,,,,,Y,,,,PR,2023,,,Y,,Y,65217,SGOSH, ,, ,,N
+63289,Key Capture Energy,65692,NY6 Battery,NY,Erie,NY6,OP,Batteries,BA,IPP Non-CHP,2,20.0,20.0,20.0,5,2023,42,20,20,LIB,,,,20,CS,,PR,,,,,,,Y,,,2023,,,,Y,N, ,, ,, ,,N
+65056,NY - Mines Press,65815,NY - Mines Press,NY,Westchester,MPBS,OP,Batteries,BA,IPP Non-CHP,2,1.0,1.0,1.0,6,2022,2.1,0.6,0.6,LIB,,,,1,CS,Y,,Y,,Y,Y,Y,,,,PR,2023,,Y,,,Y,65815,MPRES, ,, ,,N
+61194,Generate Capital,66218,Dubois Solar (Hybrid),NY,Ulster,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,12,2020,4.4,2,2,LIB,,,,3.4,CS,,,,,,,PR,,,,Y,2023,,Y,,,Y,66218,10892, ,, ,,Y
+61194,Generate Capital,66222,Landau II Solar (Hybrid),NY,Ulster,BAT,OP,Batteries,BA,IPP Non-CHP,2,4.0,4.0,4.0,12,2021,8.8,4,4,LIB,,,,1.3,CS,,,,,,,PR,,,,Y,2023,,Y,,,Y,66222,61194, ,, ,,N
+61194,Generate Capital,66228,Salt Point Solar (Hybrid),NY,Dutchess,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,1,2021,4.4,2,2,LIB,,,,0.6,CS,,,,,,,PR,,,,Y,2023,,Y,,,N, ,, ,, ,,N
+61194,Generate Capital,66232,Svenski Solar (Hybrid),NY,Orange,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,4,2022,4.4,2,2,LIB,,,,0.6,CS,,,,,,,PR,,,,Y,2023,,,,,N, ,, ,, ,,N
+61194,Generate Capital,66488,Davis Solar,NY,Orange,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,10,2023,4,2,2,LIB,,,,0.6,CS,,,,,,,PR,,,,Y,2023,,,,,N, ,, ,, ,,N
+61978,Convergent Energy and Power LP,66501,Cicero Energy Storage 1 LLC,NY,Onondaga,CCBA1,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,3,2022,20,5,5,LIB,,,,5,CS,,,,,PR,Y,Y,,,,Y,2023,,Y,,,Y,66501,CCPV1, ,, ,,N
+61978,Convergent Energy and Power LP,66503,Cicero Energy Storage 2 LLC,NY,Onondaga,CCBA2,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,3,2022,20,5,5,LIB,,,,5,CS,,,,,PR,Y,Y,,,,Y,2023,,Y,,,Y,66503,CCPV2, ,, ,,N
+64872,"Distributed Solar Development, LLC",66764,SCH - (2A) 156 Barhydt Rd Glenville,NY,Schenectady,3954B,OP,Batteries,BA,IPP Non-CHP,2,2.5,2.5,2.5,7,2021,10,2.5,2.5,LIB,,,, ,CS,,,,,Y,,,,,,PR,2023,,Y,,,Y,66764,3954, ,, ,,Y
+64872,"Distributed Solar Development, LLC",66765,SCH County - (2B) 4982 Rynex Corners Rd,NY,Schenectady,3595B,OP,Batteries,BA,IPP Non-CHP,2,2.5,2.5,2.5,12,2020,10,2.5,2.5,LIB,,,,10,CS,,,,,,,Y,PR,,,Y,2023,,Y,,,Y,66765,3595, ,, ,,N
+64872,"Distributed Solar Development, LLC",66767,Source Power Company - Richland,NY,Oswego,4725B,OP,Batteries,BA,IPP Non-CHP,2,2.5,2.5,2.5,11,2021,9.5,2.5,2.5,LIB,,,,9.5,CS,,,,,,,Y,PR,,,Y,2023,,Y,,,Y,66767,4725, ,, ,,N
+65861,"Enel X North America, Inc",66967,Gateway BESS,NY,Kings,S049,OP,Batteries,BA,IPP Non-CHP,2,4.8,4.8,4.8,5,2019,16.4,1.6,4,LIB,,,,4,CS,,,,,,Y,PR,,,,,2023,,,,Y,N, ,, ,, ,,N
+64872,"Distributed Solar Development, LLC",67275,White Plains_RFP-Gedney Way Landfill,NY,Westchester,4072B,OP,Batteries,BA,IPP Non-CHP,2,1.3,1.3,1.3,4,2022,5.1,1.3,1.3,LIB,,,,0.8,CS,,PR,,,Y,,,,,,Y,2023,Y,,,,Y,67275,4072C, ,4072G, ,,N
+66357,Shapham Place Solar Project 2020 LLC,67745,White Plains RFP Shapham Place,NY,Westchester,4075B,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,5,2022,2,0.5,0.5,LIB,,,,1,CS,,PR,,,Y,,,,,,,2023,Y,,,,Y,67745,4075, ,, ,,N
+66445,"NineDot Holdings, LLC",67886,Gunther,NY,Bronx,ND001,OP,Batteries,BA,IPP Non-CHP,2,1.5,1.5,1.5,9,2023,6.2,1.5,1.5,NIB,,,,1.3,CT,Y,,,,,Y,PR,,,,,2023,,,,,N, ,, ,, ,,Y
+66445,"NineDot Holdings, LLC",67886,Gunther,NY,Bronx,ND002,OP,Batteries,BA,IPP Non-CHP,2,1.5,1.5,1.5,9,2023,6.2,1.5,1.5,NIB,,,,1.3,CT,Y,,,,,Y,PR,,,,,2023,,,,Y,N, ,, ,, ,,Y
+61978,Convergent Energy and Power LP,57710,Stephentown Spindle,NY,Rensselaer,SRS1,OP,Flywheels,FW,IPP Non-CHP,2,20.0,20.0,20.0,1,2011,15,20,20,,,,,6.4,CS,,Y,,,,,,,,,,2024,,,,,, ,, ,, ,,
+61364,Lockheed Martin RMS Syracuse,61739,Lockheed Martin RMS Syracuse,NY,Onondaga,SYR1,OS,Batteries,BA,Industrial Non-CHP,6,1.0,1.0,1.0,8,2017,1.3,1,1,LIB,,,,1,CS,Y,,,,,,PR,Y,,,,2024,,,,,N, ,, ,, ,,N
+61687,"KCE NY 1, LLC",62147,KCE NY 1,NY,Saratoga,KNY1,OP,Batteries,BA,IPP Non-CHP,2,20.0,20.0,20.0,3,2019,8.4,20,20,LIB,,,,6.5,CS,,PR,,,,,,,,,,2024,,,,,N, ,, ,, ,,N
+62652,"East Hampton Energy Storage Center, LLC",62733,East Hampton Energy Storage Center,NY,Suffolk,BEH,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,8,2018,40,5,5,LIB,,,,5,BL,Y,,,Y,,,Y,PR,Y,,,2024,,,,,N, ,, ,, ,,N
+62651,"Montauk Energy Storage Center, LLC",62734,Montauk Energy Storage Center,NY,Suffolk,BME,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,2,2019,40,5,5,LIB,,,,0.7,BL,,,,,,,Y,PR,,,,2024,,,,,N, ,, ,, ,,N
+4226,Consolidated Edison Co-NY Inc,62839,98th Street Battery Storage Station,NY,Queens,ESS98,OP,Batteries,BA,Electric Utility,1,2.0,1.5,1.5,6,2021,12,1,1.5,LIB,,,,1.5,CS,,,,,,,PR,,,,,2024,,,,,N, ,, ,, ,,Y
+56404,National Grid,62981,East Pulaski BESS,NY,Oswego,BESS,OP,Batteries,BA,Electric Utility,1,2.0,2.0,2.0,12,2018,4.2,2,2,LIB,,,,0.6,CS,,,Y,,,Y,PR,,,,,2024,,,,,N, ,, ,, ,,Y
+61012,AES Distributed Energy,62999,"Finchville Solar, LLC Hybrid CSG",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,10,2020,4.4,1.9,1.9,LIB,,,,0.9,CT,,,,,,,Y,,,,PR,2024,,,Y,,Y,62999,FINCH, ,, ,,N
+61012,AES Distributed Energy,63000,"RT 52 Walden Solar 1, LLC Hybrid",NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,4.0,4.0,4.0,1,2020,8.8,3.9,3.9,LIB,,,,0.9,CT,,,,,,,Y,,,,PR,2024,Y,,,,Y,63000,WALDN, ,, ,,N
+15296,New York Power Authority,63238,Willis Battery Storage,NY,Franklin,WB1,OP,Batteries,BA,Electric Utility,1,20.0,20.0,20.0,7,2023,20,20,20,LIB,,,,19,CS,Y,,,PR,,,,,,,,2024,,,,,N, ,, ,, ,,N
+63107,"Lansing Renewables, LLC",63337,"Lansing Renewables, LLC",NY,Tompkins,14320,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,4,2022,3,3,3,LIB,,,,0,CT,,,,,,,,,,,PR,2024,,Y,,,Y,63337,6004, ,, ,,N
+63109,"Hales Mills Solar, LLC",63339,"Hales Mills Solar, LLC",NY,Fulton,09751,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,9,2024,12.8,3,3,LIB,,,,3,CS,,,,,,,,,,,PR,2024,,Y,,,Y,63339,6609, ,, ,,Y
+63110,"Owlville Creek Solar 2, LLC",63340,"Owlville Creek Solar 2, LLC",NY,Madison,20660,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,7,2022,12.8,3,3,LIB,,,,0,CS,,,,,,,,,,,PR,2024,,Y,,,Y,63340,6609, ,, ,,N
+63111,"Owlville Creek Solar, LLC",63341,"Owlville Creek Solar, LLC",NY,Madison,20660,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,7,2022,12.8,3,3,LIB,,,,0,CS,,,,,,,,,,,PR,2024,,Y,,,Y,63341,20660, ,, ,,N
+61012,AES Distributed Energy,63415,"Middletown Solar 1, LLC Hybrid CSG",NY,Orange,BATT,OP,Batteries,BA,IPP Non-CHP,2,1.6,1.6,1.6,12,2020,6.6,1.6,1.6,LIB,,,,0.9,CS,,,,,,,Y,,,,PR,2024,,,Y,,Y,63415,CENTR, ,, ,,N
+14154,Orange & Rockland Utils Inc,63585,NY3 Battery,NY,Rockland,NY3,OP,Batteries,BA,Electric Utility,1,3.0,3.0,3.0,12,2020,12,3,3,LIB,,,,3,CS,Y,,,Y,,PR,Y,Y,,,,2024,,,,,N, ,, ,, ,,Y
+59474,BQ Energy LLC,63774,Mount Kisco Landfill Solar & Storage CSG,NY,Westchester,KISCB,OP,Batteries,BA,IPP Non-CHP,2,0.7,0.5,0.5,12,2020,2.1,0.5,0.7,LIB,,,,0.5,CS,,PR,Y,,Y,,,,,,Y,2024,,,,,N, ,, ,, ,,N
+63707,OYA Blanchard Road LLC,64084,Blanchard Road 1 Community Solar,NY,Jefferson,BR1S,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,PR,2024,,,Y,,Y,64084,BR1CS, ,, ,,N
+63708,OYA Blanchard Road 2 LLC,64087,Blanchard Road 2 Community Solar,NY,Jefferson,BR2S,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,PR,2024,,,Y,,Y,64087,BR2CS, ,, ,,N
+63709,OYA NYS Rte 12 LLC,64090,NYS Rte 12 Community Solar,NY,Jefferson,NR12S,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,PR,2024,,,Y,,Y,64090,NYR12, ,, ,,N
+63711,OYA Great Lakes Seaway LLC,64092,Great Lakes Seaway Community Solar,NY,Jefferson,GLSS,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2019,15,3.8,3.8,LIB,,,,3.8,CS,,,,,,,,,,,PR,2024,,,Y,,Y,64092,GLSCS, ,, ,,N
+63991,"DG New York CS, LLC",64374,Norwich Solar and Energy Storage CSG,NY,Chenango,NRWCB,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,9,2021,15,3,3,LIB,,,,2.6,CS,,,,,Y,,Y,,,,PR,2024,,,Y,,Y,64374,NRWCH, ,, ,,N
+57365,Consolidated Edison Solutions Inc.,64442,Mt Pleasant Community Center,NY,Westchester,MPES,OP,Batteries,BA,IPP Non-CHP,2,0.7,0.7,0.7,11,2022,3,0.5,0.7,LIB,,,,0.5,CS,,,,,,,,,,,PR,2024,Y,,,,Y,64442,MPPV, ,, ,,N
+63991,"DG New York CS, LLC",64453,Volney II,NY,Oswego,VOLES,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,2,2021,12,3,3,LIB,,,,2.6,CS,,,,,Y,,Y,,,,PR,2024,,,Y,,Y,64453,VOLNE, ,, ,,N
+49893,Invenergy Services LLC,64686,Orangeville Storage,NY,Wyoming,65002,OP,Batteries,BA,IPP Non-CHP,2,24.7,20.0,20.0,10,2022,20,20,20,LIB,,,,6.8,OT,,Y,,,,,,,PR,,,2024,,Y,,,Y,58088,1, ,, ,,Y
+61012,AES Distributed Energy,64719,Glenmere Lake,NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,6,2021,7.5,2,2,LIB,,,,0.9,CT,,,,,,,Y,,,,PR,2024,,,Y,,Y,64719,GLNMR, ,, ,,N
+4226,Consolidated Edison Co-NY Inc,65035,Fox Hills Battery Station,NY,Richmond,ESSFH,OP,Batteries,BA,Electric Utility,1,7.5,7.5,7.5,9,2023,30,7.5,7.5,LIB,,,,7.5,CS,Y,,,Y,,,PR,,Y,,,2024,,,,,N, ,, ,, ,,Y
+61012,AES Distributed Energy,65217,South Goshen Community Solar,NY,Orange,BESS,OP,Batteries,BA,IPP Non-CHP,2,4.5,4.5,4.5,9,2021,17,4.5,4.5,LIB,,,,5,OT,,,,,,,Y,,,,PR,2024,,,Y,,Y,65217,SGOSH, ,, ,,N
+63289,Key Capture Energy,65692,NY6 Battery,NY,Erie,NY6,OP,Batteries,BA,IPP Non-CHP,2,20.0,20.0,20.0,5,2023,42,20,20,LIB,,,,20,CS,,PR,,,,,,,Y,,,2024,,,,,N, ,, ,, ,,N
+65056,NY - Mines Press,65815,NY - Mines Press,NY,Westchester,MPBS,OP,Batteries,BA,IPP Non-CHP,2,1.0,1.0,1.0,6,2022,2.1,0.6,0.6,LIB,,,,1,CS,Y,,Y,,Y,Y,Y,,,,PR,2024,,Y,,,Y,65815,MPRES, ,, ,,N
+61194,Generate Capital,66218,Dubois Solar (Hybrid),NY,Ulster,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,12,2020,4,2,2,LIB,,,,3.4,CS,,,,,,,PR,,,,Y,2024,,Y,,,Y,66218,10892, ,, ,,Y
+61194,Generate Capital,66222,Landau II Solar (Hybrid),NY,Ulster,BAT,OP,Batteries,BA,IPP Non-CHP,2,4.0,4.0,4.0,12,2021,8,4,4,LIB,,,,1.3,CS,,,,,,,PR,,,,Y,2024,,Y,,,Y,66222,10895, ,, ,,N
+61194,Generate Capital,66228,Salt Point Solar (Hybrid),NY,Dutchess,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,1,2021,2,2,2,LIB,,,,0.6,CS,,,,,,,PR,,,,Y,2024,,Y,,,N, ,, ,, ,,N
+61194,Generate Capital,66232,Svenski Solar (Hybrid),NY,Orange,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,4,2022,4,2,2,LIB,,,,0.6,CS,,,,,,,PR,,,,Y,2024,,,Y,,Y,66232,10894, ,, ,,N
+61194,Generate Capital,66488,Davis Solar,NY,Orange,BAT,OP,Batteries,BA,IPP Non-CHP,2,2.0,2.0,2.0,10,2023,4,2,2,LIB,,,,0.6,CS,,,,,,,PR,,,,Y,2024,,,Y,,Y,66488,10958, ,, ,,N
+61978,Convergent Energy and Power LP,66501,Cicero Energy Storage 1 LLC,NY,Onondaga,CCBA1,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,3,2022,20,5,5,LIB,,,,5,CS,,,,,PR,Y,Y,,,,Y,2024,,Y,,,Y,66501,CCPV1, ,, ,,N
+61978,Convergent Energy and Power LP,66503,Cicero Energy Storage 2 LLC,NY,Onondaga,CCBA2,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,3,2022,20,5,5,LIB,,,,5,CS,,,,,PR,Y,Y,,,,Y,2024,,Y,,,Y,66503,CCPV2, ,, ,,N
+64872,"Distributed Solar Development, LLC",66764,SCH - (2A) 156 Barhydt Rd Glenville,NY,Schenectady,3954B,OP,Batteries,BA,IPP Non-CHP,2,2.5,2.5,2.5,7,2021,10,2.5,2.5,LIB,,,,1.2,CS,,,,,Y,,,,,,PR,2024,,Y,,,Y,66764,3954, ,, ,,Y
+64872,"Distributed Solar Development, LLC",66765,SCH County - (2B) 4982 Rynex Corners Rd,NY,Schenectady,3595B,OP,Batteries,BA,IPP Non-CHP,2,2.5,2.5,2.5,12,2020,10,2.5,2.5,LIB,,,,10,CS,,,,,,,Y,PR,,,Y,2024,,Y,,,Y,66765,3595, ,, ,,N
+64872,"Distributed Solar Development, LLC",66767,Source Power Company - Richland,NY,Oswego,4725B,OP,Batteries,BA,IPP Non-CHP,2,2.5,2.5,2.5,11,2021,9.5,2.5,2.5,LIB,,,,9.5,CS,,,,,,,Y,PR,,,Y,2024,,Y,,,Y,66767,4725, ,, ,,N
+64872,"Distributed Solar Development, LLC",67275,White Plains_RFP-Gedney Way Landfill,NY,Westchester,4072B,OP,Batteries,BA,IPP Non-CHP,2,1.3,1.3,1.3,4,2022,5.1,1.3,1.3,LIB,,,,0.8,CS,,PR,,,Y,,,,,,Y,2024,Y,,,,Y,67275,4072C,67275,4072G, ,,N
+66147,"FFP NY Goshen Project1, LLC",67281,FFP - NY Urbanski,NY,Orange,5653B,OP,Batteries,BA,IPP Non-CHP,2,4.0,4.0,4.0,5,2024,10.5,4,4,LIB,,,,3.2,CS,,,,,Y,,,,,,PR,2024,,Y,,,Y,66147,5653, ,, ,,N
+66148,"FFP NY Goshen Project2, LLC",67282,FFP - NY Varano,NY,Orange,5654B,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,5,2024,10.5,5,5,LIB,,,,3.2,CS,,,,,Y,,,,,,PR,2024,,Y,,,Y,67282,5654, ,, ,,N
+66357,Shapham Place Solar Project 2020 LLC,67745,White Plains RFP Shapham Place,NY,Westchester,4075B,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,5,2022,2,0.5,0.5,LIB,,,,1,CS,,PR,,,Y,,,,,,Y,2024,Y,,,,Y,67745,4075, ,, ,,N
+66445,"NineDot Holdings, LLC",67883,"Gabby Giffords Clean Energy, LLC",NY,Richmond,ND003,OP,Batteries,BA,IPP Non-CHP,2,5.0,5.0,5.0,12,2024,21.7,2.7,5,LIB,,,,4.4,CS,Y,,,,,Y,PR,,,,,2024,,,,,N, ,, ,, ,,Y
+66445,"NineDot Holdings, LLC",67883,"Gabby Giffords Clean Energy, LLC",NY,Richmond,ND004,OP,Batteries,BA,IPP Non-CHP,2,3.0,3.0,3.0,12,2024,12.4,1.6,3,LIB,,,,2.5,CS,Y,,,,,Y,PR,,,,,2024,,,,,N, ,, ,, ,,Y
+66445,"NineDot Holdings, LLC",67886,Gunther,NY,Bronx,ND001,OP,Batteries,BA,IPP Non-CHP,2,1.5,1.5,1.5,9,2023,6.2,1.5,1.5,NIB,,,,1.3,CS,Y,,,,,Y,PR,,,,,2024,,,,,N, ,, ,, ,,Y
+66445,"NineDot Holdings, LLC",67886,Gunther,NY,Bronx,ND002,OP,Batteries,BA,IPP Non-CHP,2,1.5,1.5,1.5,9,2023,6.2,1.5,1.5,NIB,,,,1.3,CS,Y,,,,,Y,PR,,,,,2024,,,,,N, ,, ,, ,,Y

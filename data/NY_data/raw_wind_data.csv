@@ -1,0 +1,387 @@
+Utility ID,Utility Name,Plant Code,Plant Name,State,County,Generator ID,Status,Prime Mover,Sector Name,Sector,Nameplate Capacity (MW),Summer Capacity (MW),Winter Capacity (MW),Operating Month,Operating Year,Predominant Turbine Manufacturer,Predominant Turbine Model Number,Design Wind Speed (mph),Wind Quality Class,Turbine Hub Height (Feet),FAA Obstacle Number,Year,Technology,Number of Turbines
+15399,Iberdrola Renewables Inc,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,G90,Gamesa,2.2,4,328,,2013,,
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,SB,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47,24,2,180,,2013,,
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5,24,2,262,,2013,,
+49880,EDP Renewables North America LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66,22,1,220,36-002736,2013,,
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.0,112.0,112.0,2,2009,GE,1.5 MW SLE,15,3,263,36-020534,2013,,
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82,19,2,262,36-002501,2013,,
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.0,61.0,61.0,1,2006,Vestas,V82,19,2,262,36-002502,2013,,
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82,19,2,262,36-002698,2013,,
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,91.0,91.0,91.0,12,2006,Vestas,V82,19,2,262,36-002714,2013,,
+55868,Noble Wind Operations LLC,56618,Noble Clinton Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262,36-020055,2013,,
+55868,Noble Wind Operations LLC,56619,Noble Ellenburg Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19,2,262,36-020144,2013,,
+55868,Noble Wind Operations LLC,56620,Noble Bliss Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262,36-020026,2013,,
+55868,Noble Wind Operations LLC,56901,Noble Altona Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19,2,262,36-020259,2013,,
+55868,Noble Wind Operations LLC,56902,Noble Wethersfield Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19,2,262,36-020519,2013,,
+55868,Noble Wind Operations LLC,56904,Noble Chateaugay Windpark LLC,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,19,2,262,36-020296,2013,,
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.0,215.0,215.0,11,2012,Vestas,V112 3.0,19,2,308,36-025629,2013,,
+56215,E ON Climate Renewables N America LLC,56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.5,36-002781,2013,,
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,DF 1650,27,2,270,36-025729,2013,,
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,DF 1650,27,2,270,36-025730,2013,,
+57469,Stony Creek Wind Farm NY,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,GE 1.62MW,7.1,3,262.5,36-028942,2013,,
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,55.4,51.3,51.3,12,2011,Senvion USA Corp.,MM92,19,3,262.5,2010-WTE-15581-OE,2013,,
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion USA Corp.,MM92,19,3,262.5,2010-WTE-15581-OE,2013,,
+59155,"First Wind O&M, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,C96,8.5,2,262,36-020198,2013,,
+59155,"First Wind O&M, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,C96,8.5,2,262,36-020464,2013,,
+59155,"First Wind O&M, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,C96,8.5,2,262,36-020513,2013,,
+59155,"First Wind O&M, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,C96,8.5,2,262,36-025561,2013,,
+15399,Iberdrola Renewables Inc,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,Gamesa,16,4,328,,2014,Onshore Wind Turbine,
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,SB,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47,24,2,180,,2014,Onshore Wind Turbine,
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5,24,2,262,,2014,Onshore Wind Turbine,
+49880,EDP Renewables North America LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66,22,1,220,36-002736,2014,Onshore Wind Turbine,
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.0,112.0,112.0,2,2009,GE,1.5 MW SLE,15,3,263,36-020534,2014,Onshore Wind Turbine,
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,GE 1.6-103/16 MW,16.7,3,262,2014-WTE-3795-OE,2014,Onshore Wind Turbine,
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82,19,2,262,36-002501,2014,Onshore Wind Turbine,
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.0,61.0,61.0,1,2006,Vestas,V82,19,2,262,36-002502,2014,Onshore Wind Turbine,
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82,19,2,262,36-002698,2014,Onshore Wind Turbine,
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,91.0,91.0,91.0,12,2006,Vestas,V82,19,2,262,36-002714,2014,Onshore Wind Turbine,
+55868,Noble Wind Operations LLC,56618,Noble Clinton Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262,2006-AEA-1811-OE,2014,Onshore Wind Turbine,
+55868,Noble Wind Operations LLC,56619,Noble Ellenburg Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19,2,262,2006-AEA-1654-OE,2014,Onshore Wind Turbine,
+55868,Noble Wind Operations LLC,56620,Noble Bliss Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262,2006-AEA-879-OE,2014,Onshore Wind Turbine,
+55868,Noble Wind Operations LLC,56901,Noble Altona Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19,2,262,2006-AEA-2023-OE,2014,Onshore Wind Turbine,
+55868,Noble Wind Operations LLC,56902,Noble Wethersfield Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19,2,262,2007-AEA-1641-OE,2014,Onshore Wind Turbine,
+55868,Noble Wind Operations LLC,56904,Noble Chateaugay Windpark LLC,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,19,2,262,2007-AEA-1296-OE,2014,Onshore Wind Turbine,
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.0,215.0,215.0,11,2012,Vestas,V112 3.0,19,2,308,36-025629,2014,Onshore Wind Turbine,
+56215,E ON Climate Renewables N America LLC,56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.5,36-002781,2014,Onshore Wind Turbine,
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,DF 1650,20,2,270,36-025729,2014,Onshore Wind Turbine,
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,DF 1650,20,2,270,36-025730,2014,Onshore Wind Turbine,
+57469,Stony Creek Wind Farm NY,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,GE 1.62MW,15.9,3,262.5,36-028942,2014,Onshore Wind Turbine,
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,55.4,51.3,51.3,12,2011,Senvion,MM92,19,3,262.5,2010-WTE-15581-OE,2014,Onshore Wind Turbine,
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19,3,262.5,2010-WTE-15581-OE,2014,Onshore Wind Turbine,
+59155,"First Wind O&M, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,C96,19,2,262,36-020198,2014,Onshore Wind Turbine,
+59155,"First Wind O&M, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,C96,19,2,262,36-020464,2014,Onshore Wind Turbine,
+59155,"First Wind O&M, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,C96,19,2,262,36-020513,2014,Onshore Wind Turbine,
+59155,"First Wind O&M, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,C96,19,2,262,36-025561,2014,Onshore Wind Turbine,
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,SB,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47-660,24,2,180.0,,2015,Onshore Wind Turbine,10.0
+49880,EDP Renewables North America LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22,1,220.0,36-002736,2015,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24,2,262.0,,2015,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19,2,262.0,36-002501,2015,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.0,61.0,61.0,1,2006,Vestas,V82-1.65,19,2,262.0,36-002502,2015,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19,2,262.0,36-002698,2015,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,91.0,91.0,91.0,12,2006,Vestas,V82-1.65,19,2,262.0,36-002714,2015,Onshore Wind Turbine,55.0
+59155,"First Wind O&M, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,Liberty C96,19,2,262.4,36-020198,2015,Onshore Wind Turbine,8.0
+56215,E ON Climate Renewables N America LLC,56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,36-002781,2015,Onshore Wind Turbine,23.0
+55868,Noble Wind Operations LLC,56618,Noble Clinton Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262.0,2006-AEA-1811-OE,2015,Onshore Wind Turbine,67.0
+55868,Noble Wind Operations LLC,56619,Noble Ellenburg Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19,2,262.0,2006-AEA-1654-OE,2015,Onshore Wind Turbine,54.0
+55868,Noble Wind Operations LLC,56620,Noble Bliss Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262.0,2006-AEA-879-OE,2015,Onshore Wind Turbine,67.0
+59155,"First Wind O&M, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,Liberty C96,19,2,262.4,36-020464,2015,Onshore Wind Turbine,15.0
+59155,"First Wind O&M, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,Liberty C96,19,2,262.4,36-020513,2015,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.0,215.0,215.0,11,2012,Vestas,V112-3.0,19,2,308.0,36-025629,2015,Onshore Wind Turbine,70.0
+55868,Noble Wind Operations LLC,56901,Noble Altona Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19,2,262.0,2006-AEA-2023-OE,2015,Onshore Wind Turbine,65.0
+55868,Noble Wind Operations LLC,56902,Noble Wethersfield Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19,2,262.0,2007-AEA-1641-OE,2015,Onshore Wind Turbine,84.0
+55868,Noble Wind Operations LLC,56904,Noble Chateaugay Windpark LLC,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,19,2,262.0,2007-AEA-1296-OE,2015,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.0,112.0,112.0,2,2009,GE,1.5 SLE,15,3,263.0,36-020534,2015,Onshore Wind Turbine,75.0
+59155,"First Wind O&M, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,Liberty C96,19,2,262.4,36-025561,2015,Onshore Wind Turbine,6.0
+15399,Avangrid Renewables Inc,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16,4,328.0,,2015,Onshore Wind Turbine,37.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20,2,270.0,36-025729,2015,Onshore Wind Turbine,1.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20,2,270.0,36-025730,2015,Onshore Wind Turbine,1.0
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,55.4,51.3,51.3,12,2011,Senvion,MM92,19,3,262.4,2010-WTE-15581-OE,2015,Onshore Wind Turbine,25.0
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19,3,262.4,2010-WTE-15581-OE,2015,Onshore Wind Turbine,2.0
+57469,Stony Creek Wind Farm NY,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,36-028942,2015,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262.0,2014-WTE-3795-OE,2015,Onshore Wind Turbine,10.0
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,SB,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47-660,24.0,2,180.0,,2016,Onshore Wind Turbine,10.0
+49880,EDP Renewables North America LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22.0,1,220.0,,2016,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24.0,1,262.0,,2016,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19.0,2,262.0,,2016,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.0,61.0,61.0,1,2006,Vestas,V82-1.65,19.0,2,262.0,,2016,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19.0,2,262.0,,2016,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,91.0,91.0,91.0,12,2006,Vestas,V82-1.65,19.0,2,262.0,,2016,Onshore Wind Turbine,55.0
+59155,"First Wind O&M, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,Liberty C96,19.0,2,262.4,,2016,Onshore Wind Turbine,8.0
+56215,E ON Climate Renewables N America LLC,56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,,2016,Onshore Wind Turbine,23.0
+55868,Noble Wind Operations LLC,56618,Noble Clinton Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2016,Onshore Wind Turbine,67.0
+55868,Noble Wind Operations LLC,56619,Noble Ellenburg Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19.0,2,262.0,,2016,Onshore Wind Turbine,54.0
+55868,Noble Wind Operations LLC,56620,Noble Bliss Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2016,Onshore Wind Turbine,67.0
+59155,"First Wind O&M, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2016,Onshore Wind Turbine,15.0
+59155,"First Wind O&M, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2016,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.0,215.0,215.0,11,2012,Vestas,V112-3.0,19.0,2,308.0,,2016,Onshore Wind Turbine,70.0
+55868,Noble Wind Operations LLC,56901,Noble Altona Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2016,Onshore Wind Turbine,65.0
+55868,Noble Wind Operations LLC,56902,Noble Wethersfield Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19.0,2,262.0,,2016,Onshore Wind Turbine,84.0
+55868,Noble Wind Operations LLC,56904,Noble Chateaugay Windpark LLC,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2016,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.0,112.0,112.0,2,2009,GE,1.5 SLE,15.0,2,263.0,,2016,Onshore Wind Turbine,75.0
+59155,"First Wind O&M, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,Liberty C96,19.0,2,262.4,,2016,Onshore Wind Turbine,6.0
+15399,Avangrid Renewables LLC,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16.0,2,328.0,,2016,Onshore Wind Turbine,37.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2016,Onshore Wind Turbine,1.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2016,Onshore Wind Turbine,1.0
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,55.4,51.3,51.3,12,2011,Senvion,MM92,19.0,3,262.4,,2016,Onshore Wind Turbine,25.0
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19.0,3,262.4,,2016,Onshore Wind Turbine,2.0
+57469,Stony Creek Wind Farm NY,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,,2016,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262.0,,2016,Onshore Wind Turbine,10.0
+59362,Jericho Rise Wind Farm LLC,59629,Jericho Rise Wind Farm LLC,NY,Franklin,GEN1,OP,WT,IPP Non-CHP,2,77.7,77.7,77.7,12,2016,Gamesa,G114-2.0,16.7,2,305.0,,2016,Onshore Wind Turbine,47.0
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,SB,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47-660,24,2,180.0,,2017,Onshore Wind Turbine,10.0
+49880,Madison Windpower LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22,1,220.0,,2017,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24,1,262.0,,2017,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19,2,262.0,,2017,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.0,61.0,61.0,1,2006,Vestas,V82-1.65,19,2,262.0,,2017,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19,2,262.0,,2017,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,91.0,91.0,91.0,12,2006,Vestas,V82-1.65,19,2,262.0,,2017,Onshore Wind Turbine,55.0
+59155,"First Wind O&M, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,Liberty C96,19,2,262.4,,2017,Onshore Wind Turbine,8.0
+56215,E ON Climate Renewables N America LLC,56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,,2017,Onshore Wind Turbine,23.0
+55868,Noble Wind Operations LLC,56618,Noble Clinton Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262.0,,2017,Onshore Wind Turbine,67.0
+55868,Noble Wind Operations LLC,56619,Noble Ellenburg Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19,2,262.0,,2017,Onshore Wind Turbine,54.0
+55868,Noble Wind Operations LLC,56620,Noble Bliss Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262.0,,2017,Onshore Wind Turbine,67.0
+59155,"First Wind O&M, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,Liberty C96,19,2,262.4,,2017,Onshore Wind Turbine,15.0
+59155,"First Wind O&M, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,Liberty C96,19,2,262.4,,2017,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.0,215.0,215.0,11,2012,Vestas,V112-3.0,19,2,308.0,,2017,Onshore Wind Turbine,70.0
+55868,Noble Wind Operations LLC,56901,Noble Altona Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19,2,262.0,,2017,Onshore Wind Turbine,65.0
+55868,Noble Wind Operations LLC,56902,Noble Wethersfield Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19,2,262.0,,2017,Onshore Wind Turbine,84.0
+55868,Noble Wind Operations LLC,56904,Noble Chateaugay Windpark LLC,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,19,2,262.0,,2017,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.0,112.0,112.0,2,2009,GE,1.5 SLE,15,2,263.0,,2017,Onshore Wind Turbine,75.0
+59155,"First Wind O&M, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,Liberty C96,19,2,262.4,,2017,Onshore Wind Turbine,6.0
+15399,Avangrid Renewables LLC,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16,2,328.0,,2017,Onshore Wind Turbine,37.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20,2,270.0,,2017,Onshore Wind Turbine,1.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20,2,270.0,,2017,Onshore Wind Turbine,1.0
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,55.4,51.3,51.3,12,2011,Senvion,MM92,19,3,262.4,,2017,Onshore Wind Turbine,25.0
+58672,Everpower Wind Holdings Inc,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19,3,262.4,,2017,Onshore Wind Turbine,2.0
+49893,Invenergy Services LLC,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,,2017,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262.0,,2017,Onshore Wind Turbine,10.0
+59362,Jericho Rise Wind Farm LLC,59629,Jericho Rise Wind Farm LLC,NY,Franklin,GEN1,OP,WT,IPP Non-CHP,2,77.7,77.7,77.7,12,2016,Gamesa,G114-2.0,16.7,2,305.0,,2017,Onshore Wind Turbine,47.0
+61363,Seneca Nation,61734,Seneca Nation Cattaraugus Wind Turbine,NY,Erie,1,OP,WT,Commercial Non-CHP,4,1.5,1.5,1.5,3,2017,VENSYS,VENSYS82,15.6,3,272.0,,2017,Onshore Wind Turbine,1.0
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,SB,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47-660,24.0,2,180.0,,2018,Onshore Wind Turbine,10.0
+49880,Madison Windpower LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22.0,1,220.0,,2018,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24.0,1,262.0,,2018,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19.0,2,262.0,,2018,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.0,61.0,61.0,1,2006,Vestas,V82-1.65,19.0,2,262.0,,2018,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19.0,2,262.0,,2018,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,91.0,91.0,91.0,12,2006,Vestas,V82-1.65,19.0,2,262.0,,2018,Onshore Wind Turbine,55.0
+59155,"First Wind O&M, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,Liberty C96,19.0,2,262.4,,2018,Onshore Wind Turbine,8.0
+56215,E ON Climate Renewables N America LLC,56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,,2018,Onshore Wind Turbine,23.0
+55868,Noble Wind Operations LLC,56618,Noble Clinton Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2018,Onshore Wind Turbine,67.0
+55868,Noble Wind Operations LLC,56619,Noble Ellenburg Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19.0,2,262.0,,2018,Onshore Wind Turbine,54.0
+55868,Noble Wind Operations LLC,56620,Noble Bliss Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2018,Onshore Wind Turbine,67.0
+59155,"First Wind O&M, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2018,Onshore Wind Turbine,15.0
+59155,"First Wind O&M, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2018,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.0,215.0,215.0,11,2012,Vestas,V112-3.0,19.0,2,308.0,,2018,Onshore Wind Turbine,70.0
+55868,Noble Wind Operations LLC,56901,Noble Altona Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2018,Onshore Wind Turbine,65.0
+55868,Noble Wind Operations LLC,56902,Noble Wethersfield Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19.0,2,262.0,,2018,Onshore Wind Turbine,84.0
+55868,Noble Wind Operations LLC,56904,Noble Chateaugay Windpark LLC,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2018,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.0,112.0,112.0,2,2009,GE,1.5 SLE,15.0,2,263.0,,2018,Onshore Wind Turbine,75.0
+59155,"First Wind O&M, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,Liberty C96,19.0,2,262.4,,2018,Onshore Wind Turbine,6.0
+15399,Avangrid Renewables LLC,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16.0,2,328.0,,2018,Onshore Wind Turbine,37.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2018,Onshore Wind Turbine,1.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2018,Onshore Wind Turbine,1.0
+61975,BlackRock Inc.,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,55.4,51.3,51.3,12,2011,Senvion,MM92,19.0,3,262.4,,2018,Onshore Wind Turbine,25.0
+61975,BlackRock Inc.,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19.0,3,262.4,,2018,Onshore Wind Turbine,2.0
+49893,Invenergy Services LLC,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,,2018,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262.0,,2018,Onshore Wind Turbine,10.0
+58840,"Copenhagen Wind Farm, LLC",58979,Copenhagen Wind Farm,NY,Lewis,CPHGN,OP,WT,IPP Non-CHP,2,79.9,79.9,79.9,12,2018,Vestas,V110-2.0,15.0,3,312.0,,2018,Onshore Wind Turbine,40.0
+59362,Jericho Rise Wind Farm LLC,59629,Jericho Rise Wind Farm LLC,NY,Franklin,GEN1,OP,WT,IPP Non-CHP,2,77.7,77.7,77.7,12,2016,Gamesa,G114-2.0,16.7,2,305.0,,2018,Onshore Wind Turbine,47.0
+58261,Arkwright Summit Wind Farm LLC,61673,Arkwright Summit Wind Farm LLC,NY,Chautauqua,WT,OP,WT,IPP Non-CHP,2,79.8,78.4,78.4,8,2018,Vestas,V110-2.0,19.0,2,312.0,,2018,Onshore Wind Turbine,36.0
+61363,Seneca Nation,61734,Seneca Nation Cattaraugus Wind Turbine,NY,Erie,1,OP,WT,Commercial Non-CHP,4,1.5,1.5,1.5,3,2017,VENSYS,VENSYS82,15.6,3,272.0,,2018,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Ontario,250KW,OP,WT,Industrial CHP,7,0.3,0.3,0.3,12,2001,Fuhrlander,FL 250,9.0,3,131.0,,2018,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Ontario,850KW,OP,WT,Industrial CHP,7,0.9,0.9,0.9,12,2011,Gamesa,G58-850,9.0,3,180.0,,2018,Onshore Wind Turbine,1.0
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,OP,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47-660,24,2,180,,2019,Onshore Wind Turbine,10.0
+49880,Madison Windpower LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22,1,220,,2019,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24,1,262,,2019,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19,2,262,,2019,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.0,61.0,61.0,1,2006,Vestas,V82-1.65,19,2,262,,2019,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19,2,262,,2019,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,91.0,91.0,91.0,12,2006,Vestas,V82-1.65,19,2,262,,2019,Onshore Wind Turbine,55.0
+59155,"First Wind O&M, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,Liberty C96,19,2,262.4,,2019,Onshore Wind Turbine,8.0
+56215,RWE Renewables Americas LLC,56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,,2019,Onshore Wind Turbine,23.0
+55868,Noble Wind Operations LLC,56618,Noble Clinton Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262,,2019,Onshore Wind Turbine,67.0
+55868,Noble Wind Operations LLC,56619,Noble Ellenburg Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19,2,262,,2019,Onshore Wind Turbine,54.0
+55868,Noble Wind Operations LLC,56620,Noble Bliss Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19,2,262,,2019,Onshore Wind Turbine,67.0
+59155,"First Wind O&M, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,Liberty C96,19,2,262.4,,2019,Onshore Wind Turbine,15.0
+59155,"First Wind O&M, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,Liberty C96,19,2,262.4,,2019,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.0,215.0,215.0,11,2012,Vestas,V112-3.0,19,2,308,,2019,Onshore Wind Turbine,70.0
+55868,Noble Wind Operations LLC,56901,Noble Altona Windpark LLC,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19,2,262,,2019,Onshore Wind Turbine,65.0
+55868,Noble Wind Operations LLC,56902,Noble Wethersfield Windpark LLC,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19,2,262,,2019,Onshore Wind Turbine,84.0
+55868,Noble Wind Operations LLC,56904,Noble Chateaugay Windpark LLC,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,19,2,262,,2019,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.0,112.0,112.0,2,2009,GE,1.5 SLE,15,2,263,,2019,Onshore Wind Turbine,75.0
+59155,"First Wind O&M, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,Liberty C96,19,2,262.4,,2019,Onshore Wind Turbine,6.0
+15399,Avangrid Renewables LLC,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16,2,328,,2019,Onshore Wind Turbine,37.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20,2,270,,2019,Onshore Wind Turbine,1.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20,2,270,,2019,Onshore Wind Turbine,1.0
+56215,RWE Renewables Americas LLC,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,55.4,51.3,51.3,12,2011,Senvion,MM92,19,3,262.4,,2019,Onshore Wind Turbine,25.0
+56215,RWE Renewables Americas LLC,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19,3,262.4,,2019,Onshore Wind Turbine,2.0
+49893,Invenergy Services LLC,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,,2019,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262,,2019,Onshore Wind Turbine,10.0
+57170,"EDF Renewable Asset Holdings, Inc.",58979,Copenhagen Wind Farm,NY,Lewis,CPHGN,OP,WT,IPP Non-CHP,2,79.9,79.9,79.9,12,2018,Vestas,V110-2.0,15,3,312,,2019,Onshore Wind Turbine,40.0
+59362,Jericho Rise Wind Farm LLC,59629,Jericho Rise Wind Farm LLC,NY,Franklin,GEN1,OP,WT,IPP Non-CHP,2,77.7,77.7,77.7,12,2016,Gamesa,G114-2.0,16.7,2,305,,2019,Onshore Wind Turbine,47.0
+58261,Arkwright Summit Wind Farm LLC,61673,Arkwright Summit Wind Farm LLC,NY,Chautauqua,WT,OP,WT,IPP Non-CHP,2,79.8,78.4,78.4,8,2018,Vestas,V110-2.0,19,2,312,,2019,Onshore Wind Turbine,36.0
+61363,Seneca Nation,61734,Seneca Nation Cattaraugus Wind Turbine,NY,Erie,1,OP,WT,Commercial Non-CHP,4,1.5,1.5,1.5,3,2017,VENSYS,VENSYS82,15.6,3,272,,2019,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,250KW,OS,WT,Industrial CHP,7,0.3,0.3,0.3,12,2001,Fuhrlander,FL 250,10,3,131,,2019,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,850KW,OP,WT,Industrial CHP,7,0.9,0.9,0.9,12,2011,Gamesa,G58-850,10,3,180,,2019,Onshore Wind Turbine,1.0
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,OP,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47-660,24.0,2,180.0,,2020,Onshore Wind Turbine,10.0
+49880,Madison Windpower LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22.0,1,220.0,,2020,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24.0,1,262.0,,2020,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19.0,2,262.0,,2020,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.1,61.1,61.1,1,2006,Vestas,V82-1.65,19.0,2,262.0,,2020,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19.0,2,262.0,,2020,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,90.1,91.0,91.0,12,2006,Vestas,V82-1.65,19.0,2,262.0,,2020,Onshore Wind Turbine,55.0
+59155,"Evergreen Wind, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,Liberty C96,19.0,2,262.4,,2020,Onshore Wind Turbine,8.0
+56215,RWE Renewables Americas LLC,56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,,2020,Onshore Wind Turbine,23.0
+63858,"Valcour Operating Services, LLC",56618,Clinton,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2020,Onshore Wind Turbine,67.0
+63858,"Valcour Operating Services, LLC",56619,Ellenburg,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19.0,2,262.0,,2020,Onshore Wind Turbine,54.0
+63858,"Valcour Operating Services, LLC",56620,Bliss,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2020,Onshore Wind Turbine,67.0
+59155,"Evergreen Wind, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2020,Onshore Wind Turbine,15.0
+59155,"Evergreen Wind, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2020,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.3,215.3,215.3,11,2012,Vestas,V112-3.0,19.0,2,308.0,,2020,Onshore Wind Turbine,70.0
+63858,"Valcour Operating Services, LLC",56901,Altona,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2020,Onshore Wind Turbine,65.0
+63858,"Valcour Operating Services, LLC",56902,Wethersfield,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19.0,2,262.0,,2020,Onshore Wind Turbine,84.0
+63858,"Valcour Operating Services, LLC",56904,Chateaugay,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2020,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.0,112.0,112.0,2,2009,GE,1.5 SLE,15.0,2,263.0,,2020,Onshore Wind Turbine,75.0
+59155,"Evergreen Wind, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,Liberty C96,19.0,2,262.4,,2020,Onshore Wind Turbine,6.0
+15399,Avangrid Renewables LLC,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16.0,3,328.0,,2020,Onshore Wind Turbine,37.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2020,Onshore Wind Turbine,1.0
+56977,Zotos International,57648,Zotos International WPGF,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2020,Onshore Wind Turbine,1.0
+63800,Longroad Energy Services 2,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,55.3,51.3,51.3,12,2011,Senvion,MM92,19.0,2,262.4,,2020,Onshore Wind Turbine,25.0
+63800,Longroad Energy Services 2,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19.0,2,262.4,,2020,Onshore Wind Turbine,2.0
+49893,Invenergy Services LLC,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,,2020,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262.0,,2020,Onshore Wind Turbine,10.0
+57170,"EDF Renewable Asset Holdings, Inc.",58979,Copenhagen Wind Farm,NY,Lewis,CPHGN,OP,WT,IPP Non-CHP,2,79.9,79.9,79.9,12,2018,Vestas,V110-2.0,15.0,3,312.0,,2020,Onshore Wind Turbine,40.0
+59362,Jericho Rise Wind Farm LLC,59629,Jericho Rise Wind Farm LLC,NY,Franklin,GEN1,OP,WT,IPP Non-CHP,2,77.7,77.7,77.7,12,2016,Gamesa,G114-2.0,16.7,2,305.0,,2020,Onshore Wind Turbine,37.0
+58261,Arkwright Summit Wind Farm LLC,61673,Arkwright Summit Wind Farm LLC,NY,Chautauqua,WT,OP,WT,IPP Non-CHP,2,78.4,78.4,78.4,8,2018,Vestas,V110-2.0,19.0,2,312.0,,2020,Onshore Wind Turbine,36.0
+61363,Seneca Nation,61734,Seneca Nation Cattaraugus Wind Turbine,NY,Erie,1,OP,WT,Commercial Non-CHP,4,1.5,1.5,1.5,3,2017,VENSYS,VENSYS82,15.6,3,272.0,,2020,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,250KW,OS,WT,Industrial CHP,7,0.3,0.3,0.3,12,2001,Fuhrlander,FL 250,10.0,3,131.0,,2020,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,850KW,OP,WT,Industrial CHP,7,0.9,0.9,0.9,12,2011,Gamesa,G58-850,10.0,3,180.0,,2020,Onshore Wind Turbine,1.0
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,OP,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47-660,24.0,2,180.0,,2021,Onshore Wind Turbine,10.0
+49880,Madison Windpower LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22.0,1,220.0,,2021,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24.0,1,262.0,,2021,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19.0,2,262.0,,2021,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.1,61.1,61.1,1,2006,Vestas,V82-1.65,19.0,2,262.0,,2021,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19.0,2,262.0,,2021,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,90.1,91.0,91.0,12,2006,Vestas,V82-1.65,19.0,2,262.0,,2021,Onshore Wind Turbine,55.0
+59155,"Evergreen Wind, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,Liberty C96,19.0,2,262.4,,2021,Onshore Wind Turbine,8.0
+56215,RWE Renewables Americas LLC,56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,,2021,Onshore Wind Turbine,23.0
+63858,"Valcour Operating Services, LLC",56618,Clinton,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2021,Onshore Wind Turbine,67.0
+63858,"Valcour Operating Services, LLC",56619,Ellenburg,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19.0,2,262.0,,2021,Onshore Wind Turbine,54.0
+63858,"Valcour Operating Services, LLC",56620,Bliss,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2021,Onshore Wind Turbine,67.0
+59155,"Evergreen Wind, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2021,Onshore Wind Turbine,15.0
+59155,"Evergreen Wind, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2021,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.3,215.3,215.3,11,2012,Vestas,V112-3.0,19.0,2,308.0,,2021,Onshore Wind Turbine,70.0
+63858,"Valcour Operating Services, LLC",56901,Altona,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2021,Onshore Wind Turbine,65.0
+63858,"Valcour Operating Services, LLC",56902,Wethersfield,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19.0,2,262.0,,2021,Onshore Wind Turbine,84.0
+63858,"Valcour Operating Services, LLC",56904,Chateaugay,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,14.0,2,262.0,,2021,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.5,112.0,112.0,2,2009,GE,1.5 SLE,15.0,2,263.0,,2021,Onshore Wind Turbine,75.0
+59155,"Evergreen Wind, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,Liberty C96,19.0,2,262.4,,2021,Onshore Wind Turbine,6.0
+15399,Avangrid Renewables LLC,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16.0,3,328.0,,2021,Onshore Wind Turbine,37.0
+56977,Henkel U.S. Operations Corporation,57648,Henkel U.S. Operations Corporation,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2021,Onshore Wind Turbine,1.0
+56977,Henkel U.S. Operations Corporation,57648,Henkel U.S. Operations Corporation,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2021,Onshore Wind Turbine,1.0
+63800,Longroad Energy Services 2,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,51.3,51.3,51.3,12,2011,Senvion,MM92,19.0,2,262.4,,2021,Onshore Wind Turbine,25.0
+63800,Longroad Energy Services 2,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19.0,2,262.4,,2021,Onshore Wind Turbine,2.0
+49893,Invenergy Services LLC,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,,2021,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262.0,,2021,Onshore Wind Turbine,10.0
+56215,RWE Renewables Americas LLC,58777,Cassadaga Wind Farm,NY,Chautauqua,1,OP,WT,IPP Non-CHP,2,124.0,124.0,124.0,7,2021,Nordex,N117/3000,16.6,2,299.0,,2021,Onshore Wind Turbine,37.0
+57170,"EDF Renewable Asset Holdings, Inc.",58979,Copenhagen Wind Farm,NY,Lewis,CPHGN,OP,WT,IPP Non-CHP,2,79.9,79.9,79.9,12,2018,Vestas,V110-2.0,15.0,3,312.0,,2021,Onshore Wind Turbine,40.0
+59362,Jericho Rise Wind Farm LLC,59629,Jericho Rise Wind Farm LLC,NY,Franklin,GEN1,OP,WT,IPP Non-CHP,2,77.7,77.7,77.7,12,2016,Gamesa,G114-2.0,16.7,2,305.0,,2021,Onshore Wind Turbine,37.0
+15399,Avangrid Renewables LLC,61041,"Roaring Brook, LLC",NY,Lewis,WT1,OP,WT,IPP Non-CHP,2,79.7,79.7,79.7,10,2021,Siemens Gamesa,SG 4.5-145,16.8,3,352.7,,2021,Onshore Wind Turbine,20.0
+58261,Arkwright Summit Wind Farm LLC,61673,Arkwright Summit Wind Farm LLC,NY,Chautauqua,WT,OP,WT,IPP Non-CHP,2,78.4,78.4,78.4,8,2018,Vestas,V110-2.0,19.0,2,312.0,,2021,Onshore Wind Turbine,36.0
+61363,Seneca Nation,61734,Seneca Nation Cattaraugus Wind Turbine,NY,Erie,1,OP,WT,Commercial Non-CHP,4,1.5,1.5,1.5,3,2017,VENSYS,VENSYS82,15.6,3,272.0,,2021,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,250KW,OS,WT,Industrial CHP,7,0.3,0.3,0.3,12,2001,Fuhrlander,FL 250,10.0,3,131.0,,2021,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,850KW,OP,WT,Industrial CHP,7,0.9,0.9,0.9,12,2011,Gamesa,G58-850,10.0,3,180.0,,2021,Onshore Wind Turbine,1.0
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,OP,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47-660,24.0,2,180.0,,2022,Onshore Wind Turbine,10.0
+49880,Madison Windpower LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22.0,1,220.0,,2022,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24.0,1,262.0,,2022,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19.0,2,262.0,,2022,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.1,61.1,61.1,1,2006,Vestas,V82-1.65,19.0,2,262.0,,2022,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19.0,2,262.0,,2022,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,90.1,91.0,91.0,12,2006,Vestas,V82-1.65,19.0,2,262.0,,2022,Onshore Wind Turbine,55.0
+59155,"Evergreen Wind, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,Clipper,Liberty C96,19.0,2,262.4,,2022,Onshore Wind Turbine,8.0
+56215,"RWE Renewables Americas, LLC",56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,,2022,Onshore Wind Turbine,23.0
+63858,"Valcour Operating Services, LLC",56618,Clinton,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2022,Onshore Wind Turbine,67.0
+63858,"Valcour Operating Services, LLC",56619,Ellenburg,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19.0,2,262.0,,2022,Onshore Wind Turbine,54.0
+63858,"Valcour Operating Services, LLC",56620,Bliss,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2022,Onshore Wind Turbine,67.0
+59155,"Evergreen Wind, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2022,Onshore Wind Turbine,15.0
+59155,"Evergreen Wind, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,Clipper,Liberty C96,19.0,2,262.4,,2022,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.3,215.3,215.3,11,2012,Vestas,V112-3.0,19.0,2,308.0,,2022,Onshore Wind Turbine,70.0
+63858,"Valcour Operating Services, LLC",56901,Altona,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2022,Onshore Wind Turbine,65.0
+63858,"Valcour Operating Services, LLC",56902,Wethersfield,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19.0,2,262.0,,2022,Onshore Wind Turbine,84.0
+63858,"Valcour Operating Services, LLC",56904,Chateaugay,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,14.0,2,262.0,,2022,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.5,112.0,112.0,2,2009,GE,1.5 SLE,15.0,2,263.0,,2022,Onshore Wind Turbine,75.0
+59155,"Evergreen Wind, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,Clipper,Liberty C96,19.0,2,262.4,,2022,Onshore Wind Turbine,6.0
+15399,Avangrid Renewables LLC,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16.0,3,328.0,,2022,Onshore Wind Turbine,37.0
+56977,Henkel U.S. Operations Corporation,57648,Henkel U.S. Operations Corporation,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2022,Onshore Wind Turbine,1.0
+56977,Henkel U.S. Operations Corporation,57648,Henkel U.S. Operations Corporation,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2022,Onshore Wind Turbine,1.0
+63800,Longroad Energy Services 2,57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,51.3,51.3,51.3,12,2011,Senvion,MM92,19.0,2,262.4,,2022,Onshore Wind Turbine,25.0
+63800,Longroad Energy Services 2,57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19.0,2,262.4,,2022,Onshore Wind Turbine,2.0
+49893,Invenergy Services LLC,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,,2022,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262.0,,2022,Onshore Wind Turbine,10.0
+56215,"RWE Renewables Americas, LLC",58777,Cassadaga Wind Farm,NY,Chautauqua,1,OP,WT,IPP Non-CHP,2,124.0,124.0,124.0,7,2021,Nordex,N117/3000,16.6,2,299.0,,2022,Onshore Wind Turbine,37.0
+57170,"EDF Renewable Asset Holdings, Inc.",58979,Copenhagen Wind Farm,NY,Lewis,CPHGN,OP,WT,IPP Non-CHP,2,79.9,79.9,79.9,12,2018,Vestas,V110-2.0,15.0,3,312.0,,2022,Onshore Wind Turbine,40.0
+59362,Jericho Rise Wind Farm LLC,59629,Jericho Rise Wind Farm LLC,NY,Franklin,GEN1,OP,WT,IPP Non-CHP,2,77.7,77.7,77.7,12,2016,Gamesa,G114-2.0,16.7,2,305.0,,2022,Onshore Wind Turbine,37.0
+15399,Avangrid Renewables LLC,61041,"Roaring Brook, LLC",NY,Lewis,WT1,OP,WT,IPP Non-CHP,2,79.7,79.7,79.7,10,2021,Siemens Gamesa,SG 4.5-145,16.8,3,352.7,,2022,Onshore Wind Turbine,20.0
+58261,Arkwright Summit Wind Farm LLC,61673,Arkwright Summit Wind Farm LLC,NY,Chautauqua,WT,OP,WT,IPP Non-CHP,2,78.4,78.4,78.4,8,2018,Vestas,V110-2.0,19.0,2,312.0,,2022,Onshore Wind Turbine,36.0
+61363,Seneca Nation,61734,Seneca Nation Cattaraugus Wind Turbine,NY,Erie,1,OP,WT,Commercial Non-CHP,4,1.5,1.5,1.5,3,2017,VENSYS,VENSYS82,15.6,3,272.0,,2022,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,250KW,OS,WT,Industrial CHP,7,0.3,0.3,0.3,12,2001,Fuhrlander,FL 250,12.5,3,131.0,,2022,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,850KW,OP,WT,Industrial CHP,7,0.9,0.9,0.9,12,2011,Gamesa,G58-850,12.5,3,180.0,,2022,Onshore Wind Turbine,1.0
+34688,CHI Energy Inc,55368,Wethersfield Wind Farm,NY,Wyoming,V47,OP,WT,IPP Non-CHP,2,6.6,6.6,6.6,8,2000,Vestas,V47-660,24.0,2,180.0,,2023,Onshore Wind Turbine,10.0
+49880,Madison Windpower LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22.0,1,220.0,,2023,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24.0,1,262.0,,2023,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19.0,2,262.0,,2023,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.1,61.1,61.1,1,2006,Vestas,V82-1.65,19.0,2,262.0,,2023,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19.0,2,262.0,,2023,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,90.1,91.0,91.0,12,2006,Vestas,V82-1.65,19.0,2,262.0,,2023,Onshore Wind Turbine,55.0
+59155,"Evergreen Wind, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,GE,2.5-116,19.0,2,262.4,,2023,Onshore Wind Turbine,8.0
+56215,"RWE Renewables Americas, LLC",56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,,2023,Onshore Wind Turbine,23.0
+63858,"Valcour Operating Services, LLC",56618,Clinton,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2023,Onshore Wind Turbine,67.0
+63858,"Valcour Operating Services, LLC",56619,Ellenburg,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19.0,2,262.0,,2023,Onshore Wind Turbine,54.0
+63858,"Valcour Operating Services, LLC",56620,Bliss,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2023,Onshore Wind Turbine,67.0
+59155,"Evergreen Wind, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,GE,2.5-116,19.0,2,262.4,,2023,Onshore Wind Turbine,15.0
+59155,"Evergreen Wind, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,GE,2.5-116,19.0,2,262.4,,2023,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.3,215.3,215.3,11,2012,Vestas,V112-3.0,19.0,2,308.0,,2023,Onshore Wind Turbine,70.0
+63858,"Valcour Operating Services, LLC",56901,Altona,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2023,Onshore Wind Turbine,65.0
+63858,"Valcour Operating Services, LLC",56902,Wethersfield,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19.0,2,262.0,,2023,Onshore Wind Turbine,84.0
+63858,"Valcour Operating Services, LLC",56904,Chateaugay,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,14.0,2,262.0,,2023,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.5,112.0,112.0,2,2009,GE,1.5 SLE,15.0,2,263.0,,2023,Onshore Wind Turbine,75.0
+59155,"Evergreen Wind, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,GE,2.5-116,19.0,2,262.4,,2023,Onshore Wind Turbine,6.0
+15399,Avangrid Renewables LLC,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16.0,3,328.0,,2023,Onshore Wind Turbine,37.0
+56977,Henkel U.S. Operations Corporation,57648,Henkel U.S. Operations Corporation,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2023,Onshore Wind Turbine,1.0
+56977,Henkel U.S. Operations Corporation,57648,Henkel U.S. Operations Corporation,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2023,Onshore Wind Turbine,1.0
+65910,Howard Wind LLC (Longroad),57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,51.3,51.3,51.3,12,2011,Senvion,MM92,19.0,2,262.4,,2023,Onshore Wind Turbine,25.0
+65910,Howard Wind LLC (Longroad),57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19.0,2,262.4,,2023,Onshore Wind Turbine,2.0
+49893,Invenergy Services LLC,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,,2023,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262.0,,2023,Onshore Wind Turbine,10.0
+56215,"RWE Renewables Americas, LLC",58777,Cassadaga Wind Farm,NY,Chautauqua,1,OP,WT,IPP Non-CHP,2,124.0,124.0,124.0,7,2021,Nordex,N117/3000,16.6,2,305.1,,2023,Onshore Wind Turbine,37.0
+57170,"EDF Renewable Asset Holdings, Inc.",58979,Copenhagen Wind Farm,NY,Lewis,CPHGN,OP,WT,IPP Non-CHP,2,79.9,79.9,79.9,12,2018,Vestas,V110-2.0,15.0,3,312.0,,2023,Onshore Wind Turbine,40.0
+59362,Jericho Rise Wind Farm LLC,59629,Jericho Rise Wind Farm LLC,NY,Franklin,GEN1,OP,WT,IPP Non-CHP,2,77.7,77.7,77.7,12,2016,Gamesa,G114-2.0,16.7,2,305.0,,2023,Onshore Wind Turbine,37.0
+56215,"RWE Renewables Americas, LLC",60596,Baron Winds Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,130.0,130.0,130.0,2,2023,Vestas,V150-4.2,16.3,3,403.5,,2023,Onshore Wind Turbine,32.0
+15399,Avangrid Renewables LLC,61041,"Roaring Brook, LLC",NY,Lewis,WT1,OP,WT,IPP Non-CHP,2,79.7,79.7,79.7,10,2021,Siemens Gamesa,SG 4.5-145,16.8,3,352.7,,2023,Onshore Wind Turbine,20.0
+58261,Arkwright Summit Wind Farm LLC,61673,Arkwright Summit Wind Farm LLC,NY,Chautauqua,WT,OP,WT,IPP Non-CHP,2,78.4,78.4,78.4,8,2018,Vestas,V110-2.0,19.0,2,312.0,,2023,Onshore Wind Turbine,36.0
+61363,Seneca Nation,61734,Seneca Nation Cattaraugus Wind Turbine,NY,Erie,1,OP,WT,Commercial Non-CHP,4,1.5,1.5,1.5,3,2017,VENSYS,VENSYS82,15.6,3,272.0,,2023,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,250KW,OS,WT,Industrial CHP,7,0.3,0.3,0.3,12,2001,Fuhrlander,FL 250,12.5,3,131.0,,2023,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,850KW,OP,WT,Industrial CHP,7,0.9,0.9,0.9,12,2011,Gamesa,G58-850,12.5,3,180.0,,2023,Onshore Wind Turbine,1.0
+64804,"Ball Hill Wind Energy, LLC",65495,"Ball Hill Wind Energy, LLC",NY,Chautauqua,BALLH,OP,WT,IPP Non-CHP,2,107.5,107.5,107.5,12,2023,Vestas,V150-4.2,14.7,3,105.0,,2023,Onshore Wind Turbine,26.0
+64805,"Bluestone Wind, LLC",65496,"Bluestone Wind, LLC",NY,Broome,BLUES,OP,WT,IPP Non-CHP,2,111.8,111.8,111.8,10,2023,Vestas,V150-4.2,14.7,3,344.4,,2023,Onshore Wind Turbine,24.0
+49893,Invenergy Services LLC,65522,Number Three Wind Project,NY,Lewis,65013,OP,WT,IPP Non-CHP,2,106.0,106.0,106.0,5,2023,Vestas,V150-4.2,6.9,3,345.0,,2023,Onshore Wind Turbine,27.0
+65225,"Eight Point Wind, LLC",66052,Eight Point Wind,NY,Steuben,EPW01,OP,WT,Electric Utility,1,101.2,101.2,101.2,2,2023,GE,5.5-158,17.1,2,383.9,,2023,Onshore Wind Turbine,25.0
+49880,Madison Windpower LLC,55769,Madison Windpower LLC,NY,Madison,MADW,OP,WT,IPP Non-CHP,2,11.5,11.5,11.5,10,2000,Vestas,V66-1.65,22.0,1,220.0,,2024,Onshore Wind Turbine,7.0
+34688,CHI Energy Inc,55790,Fenner Wind,NY,Madison,1,OP,WT,IPP Non-CHP,2,30.0,30.0,30.0,10,2001,GE,1.5 SE,24.0,1,262.0,,2024,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1,OP,WT,IPP Non-CHP,2,137.0,137.0,137.0,12,2005,Vestas,V82-1.65,19.0,2,262.0,,2024,Onshore Wind Turbine,83.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,1A,OP,WT,IPP Non-CHP,2,61.1,61.1,61.1,1,2006,Vestas,V82-1.65,19.0,2,262.0,,2024,Onshore Wind Turbine,37.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,2,OP,WT,IPP Non-CHP,2,33.0,33.0,33.0,6,2006,Vestas,V82-1.65,19.0,2,262.0,,2024,Onshore Wind Turbine,20.0
+54684,"Flat Rock Windpower, LLC",56290,Maple Ridge Wind Farm,NY,Lewis,3,OP,WT,IPP Non-CHP,2,90.1,91.0,91.0,12,2006,Vestas,V82-1.65,19.0,2,262.0,,2024,Onshore Wind Turbine,55.0
+59155,"Evergreen Wind, LLC",56575,Steel Winds Wind Farm,NY,Erie,1,OP,WT,IPP Non-CHP,2,20.0,20.0,20.0,6,2007,GE,2.5-116,19.0,2,262.4,,2024,Onshore Wind Turbine,8.0
+56215,"Big Sky Wind, LLC",56594,Munnsville Wind Farm LLC,NY,Madison,MU1,OP,WT,IPP Non-CHP,2,34.5,34.5,34.5,10,2007,GE,1.5 SLE,15.9,2,262.4,,2024,Onshore Wind Turbine,23.0
+63858,"Valcour Operating Services, LLC",56618,Clinton,NY,Clinton,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2024,Onshore Wind Turbine,67.0
+63858,"Valcour Operating Services, LLC",56619,Ellenburg,NY,Clinton,1,OP,WT,IPP Non-CHP,2,81.0,81.0,81.0,5,2008,GE,1.5 SLE,19.0,2,262.0,,2024,Onshore Wind Turbine,54.0
+63858,"Valcour Operating Services, LLC",56620,Bliss (NY),NY,Wyoming,1,OP,WT,IPP Non-CHP,2,100.5,100.5,100.5,5,2008,GE,1.5 SLE,19.0,2,262.0,,2024,Onshore Wind Turbine,67.0
+59155,"Evergreen Wind, LLC",56633,Dutch Hill Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,37.5,37.5,37.5,1,2009,GE,2.5-116,19.0,2,262.4,,2024,Onshore Wind Turbine,15.0
+59155,"Evergreen Wind, LLC",56634,Cohocton Wind Project,NY,Steuben,1,OP,WT,IPP Non-CHP,2,87.5,87.5,87.5,1,2009,GE,2.5-116,19.0,2,262.4,,2024,Onshore Wind Turbine,35.0
+56072,"Marble River, LLC",56857,Marble River Wind Farm,NY,Clinton,GEN1,OP,WT,IPP Non-CHP,2,215.3,215.3,215.3,11,2012,Vestas,V112-3.0,19.0,2,308.0,,2024,Onshore Wind Turbine,70.0
+63858,"Valcour Operating Services, LLC",56901,Altona,NY,Clinton,1,OP,WT,IPP Non-CHP,2,97.5,97.5,97.5,4,2009,GE,1.5 SLE,19.0,2,262.0,,2024,Onshore Wind Turbine,65.0
+63858,"Valcour Operating Services, LLC",56902,Wethersfield,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,126.0,126.0,126.0,4,2009,GE,1.5 SLE,19.0,2,262.0,,2024,Onshore Wind Turbine,84.0
+63858,"Valcour Operating Services, LLC",56904,Chateaugay,NY,Franklin,1,OP,WT,IPP Non-CHP,2,106.5,106.5,106.5,4,2009,GE,1.5 SLE,14.0,2,262.0,,2024,Onshore Wind Turbine,71.0
+49893,Invenergy Services LLC,56953,High Sheldon Wind Farm,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,112.5,112.0,112.0,2,2009,GE,1.5 SLE,15.0,2,263.0,,2024,Onshore Wind Turbine,75.0
+59155,"Evergreen Wind, LLC",57078,Steel Winds II,NY,Erie,1,OP,WT,IPP Non-CHP,2,15.0,15.0,15.0,1,2012,GE,2.5-116,19.0,2,262.4,,2024,Onshore Wind Turbine,6.0
+15399,Avangrid Power LLC,57287,Hardscrabble Wind Power LLC,NY,Herkimer,1,OP,WT,IPP Non-CHP,2,74.0,74.0,74.0,1,2011,Gamesa,G90-2.0,16.0,3,328.0,,2024,Onshore Wind Turbine,37.0
+56977,Henkel U.S. Operations Corporation,57648,Henkel U.S. Operations Corporation,NY,Ontario,WT1,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2024,Onshore Wind Turbine,1.0
+56977,Henkel U.S. Operations Corporation,57648,Henkel U.S. Operations Corporation,NY,Ontario,WT2,OP,WT,Industrial Non-CHP,6,1.7,1.7,1.7,1,2012,Hyundai,HQ1650,20.0,2,270.0,,2024,Onshore Wind Turbine,1.0
+65910,Howard Wind LLC (Longroad),57867,Howard Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,51.3,51.3,51.3,12,2011,Senvion,MM92,19.0,2,262.4,,2024,Onshore Wind Turbine,25.0
+65910,Howard Wind LLC (Longroad),57867,Howard Wind Farm,NY,Steuben,2,OP,WT,IPP Non-CHP,2,4.1,4.1,4.1,12,2012,Senvion,MM92,19.0,2,262.4,,2024,Onshore Wind Turbine,2.0
+49893,Invenergy Services LLC,58088,Stony Creek Wind Farm NY,NY,Wyoming,1,OP,WT,IPP Non-CHP,2,94.4,94.4,94.4,11,2013,GE,1.6-100,15.9,3,262.5,,2024,Onshore Wind Turbine,58.0
+49893,Invenergy Services LLC,58768,Marsh Hill Wind Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,16.2,16.2,16.2,11,2014,GE,1.6-103,16.7,3,262.0,,2024,Onshore Wind Turbine,10.0
+56215,"Big Sky Wind, LLC",58777,Cassadaga Wind Farm,NY,Chautauqua,1,OP,WT,IPP Non-CHP,2,124.0,124.0,124.0,7,2021,Nordex,N117/3000,16.6,2,305.1,,2024,Onshore Wind Turbine,37.0
+57170,"EDF Renewable Asset Holdings, Inc.",58979,Copenhagen Wind Farm,NY,Lewis,CPHGN,OP,WT,IPP Non-CHP,2,79.9,79.9,79.9,12,2018,Vestas,V110-2.0,15.0,3,312.0,,2024,Onshore Wind Turbine,40.0
+59362,Jericho Rise Wind Farm LLC,59629,Jericho Rise Wind Farm LLC,NY,Franklin,GEN1,OP,WT,IPP Non-CHP,2,77.7,77.7,77.7,12,2016,Gamesa,G114-2.0,16.7,2,305.0,,2024,Onshore Wind Turbine,37.0
+56215,"Big Sky Wind, LLC",60596,Baron Winds Farm,NY,Steuben,1,OP,WT,IPP Non-CHP,2,130.0,130.0,130.0,2,2023,Vestas,V150-4.2,16.3,3,403.5,,2024,Onshore Wind Turbine,32.0
+15399,Avangrid Power LLC,61041,"Roaring Brook, LLC",NY,Lewis,WT1,OP,WT,IPP Non-CHP,2,79.7,79.7,79.7,10,2021,Siemens Gamesa,SG 4.5-145,16.8,3,352.7,,2024,Onshore Wind Turbine,20.0
+58261,Arkwright Summit Wind Farm LLC,61673,Arkwright Summit Wind Farm LLC,NY,Chautauqua,WT,OP,WT,IPP Non-CHP,2,78.4,78.4,78.4,8,2018,Vestas,V110-2.0,19.0,2,312.0,,2024,Onshore Wind Turbine,36.0
+61363,Seneca Nation,61734,Seneca Nation Cattaraugus Wind Turbine,NY,Erie,1,OP,WT,Commercial Non-CHP,4,1.5,1.5,1.5,3,2017,VENSYS,VENSYS82,15.6,3,272.0,,2024,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,250KW,OS,WT,Industrial CHP,7,0.3,0.3,0.3,12,2001,Fuhrlander,FL 250,12.5,3,131.0,,2024,Onshore Wind Turbine,1.0
+62657,Harbec Energy,62736,Harbec Energy,NY,Wayne,850KW,OP,WT,Industrial CHP,7,0.9,0.9,0.9,12,2011,Gamesa,G58-850,12.5,3,180.0,,2024,Onshore Wind Turbine,1.0
+64804,"Ball Hill Wind Energy, LLC",65495,"Ball Hill Wind Energy, LLC",NY,Chautauqua,BALLH,OP,WT,IPP Non-CHP,2,107.5,107.5,107.5,12,2023,Vestas,V150-4.2,14.7,3,105.0,,2024,Onshore Wind Turbine,26.0
+64805,"Bluestone Wind, LLC",65496,"Bluestone Wind, LLC",NY,Broome,BLUES,OP,WT,IPP Non-CHP,2,111.8,111.8,111.8,10,2023,Vestas,V150-4.2,14.7,3,344.4,,2024,Onshore Wind Turbine,24.0
+49893,Invenergy Services LLC,65522,Number Three Wind Project,NY,Lewis,65013,OP,WT,IPP Non-CHP,2,106.0,106.0,106.0,5,2023,Vestas,V150-4.2,14.5,3,345.0,,2024,Onshore Wind Turbine,27.0
+66027,Orsted Wind Power North America LLC,65561,South Fork Wind,NY,Suffolk,SFWND,OP,WS,IPP Non-CHP,2,130.0,130.0,130.0,7,2024,Siemens Gamesa,SG 11-200,18.8,1,427.0,,2024,Offshore Wind Turbine,12.0
+65225,"Eight Point Wind, LLC",66052,Eight Point Wind,NY,Steuben,EPW01,OP,WT,IPP Non-CHP,2,101.2,101.2,101.2,2,2023,GE,5.5-158,17.1,2,383.9,,2024,Onshore Wind Turbine,25.0
