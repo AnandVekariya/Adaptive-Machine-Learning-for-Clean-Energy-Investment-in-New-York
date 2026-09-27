@@ -1,0 +1,26 @@
+cell_rank,latitude,longitude,county,composite_score,dist_to_transmission_km,nearest_queue_project,queue_mw,queue_type,queue_status,approx_dist_to_county_queue_km,analyst_note
+1,42.12,-77.55,Steuben,75.66,1.67,Canisteo Wind,290.7,Wind,Active,21.6,4 active queue project(s) in Steuben
+2,42.12,-77.82,Allegany,73.55,2.43,Moraine Solar Energy Center,93.5,Solar,Active,22.9,1 active queue project(s) in Allegany
+3,42.21,-77.82,Allegany,73.35,1.08,Moraine Solar Energy Center,93.5,Solar,Active,17.8,1 active queue project(s) in Allegany
+4,42.03,-77.64,Steuben,72.79,8.3,Canisteo Wind,290.7,Wind,Active,34.0,4 active queue project(s) in Steuben
+5,42.03,-77.55,Steuben,72.7,4.0,Canisteo Wind,290.7,Wind,Active,29.9,4 active queue project(s) in Steuben
+6,42.21,-77.55,Steuben,72.57,0.68,Canisteo Wind,290.7,Wind,Active,15.3,4 active queue project(s) in Steuben
+7,42.21,-77.73,Steuben,71.86,5.66,Canisteo Wind,290.7,Wind,Active,29.4,4 active queue project(s) in Steuben
+8,41.85,-74.85,Sullivan,71.83,0.98,,,,,,No active renewable queue in Sullivan
+9,42.12,-77.64,Steuben,71.77,8.73,Canisteo Wind,290.7,Wind,Active,27.0,4 active queue project(s) in Steuben
+10,42.21,-77.64,Steuben,71.63,6.09,Canisteo Wind,290.7,Wind,Active,22.3,4 active queue project(s) in Steuben
+11,42.03,-77.73,Steuben,71.43,14.16,Canisteo Wind,290.7,Wind,Active,39.1,4 active queue project(s) in Steuben
+12,42.12,-77.73,Steuben,71.4,7.01,Canisteo Wind,290.7,Wind,Active,33.1,4 active queue project(s) in Steuben
+13,41.94,-74.94,Sullivan,71.22,1.44,,,,,,No active renewable queue in Sullivan
+14,42.03,-77.82,Allegany,70.96,12.14,Moraine Solar Energy Center,93.5,Solar,Active,30.5,1 active queue project(s) in Allegany
+15,42.03,-78.0,Allegany,70.93,8.76,Moraine Solar Energy Center,93.5,Solar,Active,25.4,1 active queue project(s) in Allegany
+16,42.3,-78.45,Cattaraugus,70.58,3.59,Alle Catt II Wind,339.1,Wind,Active,19.8,2 active queue project(s) in Cattaraugus
+17,42.12,-78.18,Allegany,69.94,1.63,Moraine Solar Energy Center,93.5,Solar,Active,19.9,1 active queue project(s) in Allegany
+18,42.21,-79.71,Chautauqua,69.81,1.48,York Run Solar,90.0,Solar,Active,28.3,3 active queue project(s) in Chautauqua
+19,42.3,-78.36,Cattaraugus,69.79,11.02,Alle Catt II Wind,339.1,Wind,Active,26.9,2 active queue project(s) in Cattaraugus
+20,42.12,-79.53,Chautauqua,69.2,4.89,York Run Solar,90.0,Solar,Active,18.0,3 active queue project(s) in Chautauqua
+21,42.3,-78.63,Cattaraugus,69.1,3.79,Alle Catt II Wind,339.1,Wind,Active,7.1,2 active queue project(s) in Cattaraugus
+22,42.3,-79.44,Chautauqua,68.96,3.92,York Run Solar,90.0,Solar,Active,10.0,3 active queue project(s) in Chautauqua
+23,42.21,-79.62,Chautauqua,68.93,6.42,York Run Solar,90.0,Solar,Active,20.9,3 active queue project(s) in Chautauqua
+24,42.3,-75.03,Delaware,68.89,0.25,,,,,,No active renewable queue in Delaware
+25,42.3,-78.54,Cattaraugus,68.81,3.8,Alle Catt II Wind,339.1,Wind,Active,12.9,2 active queue project(s) in Cattaraugus

@@ -1,0 +1,8 @@
+scheme,resource_R,seasonal,P50_yield,risk,land_D,notes
+Balanced (default S),0.35,0.15,0.3,0.1,0.1,Eq. (S); risk enters with minus sign
+Resource-first,0.55,0.15,0.15,0.05,0.1,Persona
+Conservative,0.25,0.15,0.2,0.25,0.15,Persona
+Yield-focus,0.2,0.1,0.45,0.1,0.15,Persona
+Risk +10%,0.35,0.15,0.25,0.15,0.1,Mild nudge
+Resource +10%,0.45,0.15,0.25,0.1,0.05,Mild nudge
+Zero-P50 ablation S0,0.5,0.2,0.0,0.15,0.15,Eq. (S0)

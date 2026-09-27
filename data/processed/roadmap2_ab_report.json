@@ -1,0 +1,138 @@
+{
+  "generated_at": "2026-06-20T15:53:28+00:00",
+  "pipeline_version": "roadmap2_v2",
+  "baseline_snapshot": "data/processed/baseline_v1/",
+  "summary": "Final hybrid pipeline keeps v2 coverage/risk/physics gains, uses v1-style primary resource models, and blends old-roadmap and plant-year yield scoring.",
+  "metrics": [
+    {
+      "name": "scored_ny_cells",
+      "v1": 1024,
+      "v2": 1089,
+      "target": ">=1024",
+      "met": true
+    },
+    {
+      "name": "gateway_pass_rate",
+      "v1": 0.4526,
+      "v2": 0.5051,
+      "target": null,
+      "met": true
+    },
+    {
+      "name": "fail_no_nlcd",
+      "v1": 721,
+      "v2": 703,
+      "target": "<721",
+      "met": true
+    },
+    {
+      "name": "weather_feature_columns",
+      "v1": 55,
+      "v2": 84,
+      "target": ">=80",
+      "met": true
+    },
+    {
+      "name": "solar_resource_oof_r2",
+      "v1": 0.7856,
+      "v2": 0.8230,
+      "target": ">=0.79",
+      "met": true,
+      "caveat": "primary_report_uses_v1_style_features; r1_extended_ablation_is_higher"
+    },
+    {
+      "name": "wind_resource_oof_r2",
+      "v1": 0.4788,
+      "v2": 0.5064,
+      "target": ">0.55",
+      "met": false,
+      "caveat": "primary_report_uses_v1_style_features; r1_extended_ablation_is_higher"
+    },
+    {
+      "name": "yield_solar_plant_year_cv_r2",
+      "v1": -0.1289,
+      "v2": -0.3171,
+      "target": ">0",
+      "met": false
+    },
+    {
+      "name": "yield_wind_plant_year_cv_r2",
+      "v1": -0.6558,
+      "v2": -0.8024,
+      "target": "less_negative",
+      "met": false
+    },
+    {
+      "name": "mean_hybrid_risk_spread",
+      "v1": 0.001259,
+      "v2": 0.005890,
+      "target": ">0.005",
+      "met": true,
+      "note": "final hybrid rerun clears the R5 target"
+    },
+    {
+      "name": "jackpot_zones",
+      "v1": 138,
+      "v2": 143,
+      "target": null,
+      "met": true
+    },
+    {
+      "name": "physics_solar_vs_eia_pearson_r",
+      "v1": null,
+      "v2": 0.2859,
+      "target": "R2>0.1 at plant snaps",
+      "met": false
+    },
+    {
+      "name": "composite_p50_source",
+      "v1": "xgb",
+      "v2": "physics_blend_negative_xgb_cv",
+      "target": "documented",
+      "met": true
+    },
+    {
+      "name": "yield_scoring_strategy",
+      "v1": "one_row_per_plant_only",
+      "v2": "blend_of_v1_plant_level_and_v2_plant_year",
+      "target": "hybrid",
+      "met": true
+    },
+    {
+      "name": "validation_checks_passed",
+      "v1": "38/38",
+      "v2": "47/47",
+      "target": "all_pass",
+      "met": true
+    }
+  ],
+  "nlcd_r2": {
+    "option": "A",
+    "cell_radius_m_v1": 5000,
+    "cell_radius_m_v2": 7000
+  },
+  "risk_method": {
+    "v1": "worst_2_year_mean",
+    "v2": "full_year_p5"
+  },
+  "yield_training_unit": {
+    "v1": "one_row_per_plant",
+    "v2": "blend_of_one_row_per_plant_and_plant_x_year"
+  },
+  "artifacts_new_v2": [
+    "data/processed/cell_physics_yield.parquet",
+    "data/processed/physics_validation_report.json",
+    "data/processed/weather_quarantine_log.csv",
+    "data/processed/scratch/physics_cell_year/"
+  ],
+  "notebooks_added": [
+    "src/pipeline/01b_physics_hourly_yield.ipynb"
+  ],
+  "rerun_chains": {
+    "after_weather": "01 -> 05 -> 06 -> 07-15",
+    "after_nlcd": "02 -> 05 -> 06 -> 07-15",
+    "after_yield": "03 -> 10 -> 12 -> 13 -> 14 -> 15",
+    "after_physics": "01b -> 13 -> 14 -> 15",
+    "full": "./scripts/run_pipeline.sh"
+  }
+}

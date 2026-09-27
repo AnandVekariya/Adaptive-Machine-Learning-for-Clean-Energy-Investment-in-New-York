@@ -1,0 +1,245 @@
+{
+  "generated_at": "2026-06-20T17:58:07.938614+00:00",
+  "pipeline_version": "roadmap2_v2",
+  "n_checks": 47,
+  "n_passed": 47,
+  "n_failed": 0,
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "exists:weather_cell_features.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:weather_quarantine_log.csv",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:modeling_master_cell.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:cells_passing_gateway.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:solar_scores_by_cell.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:wind_scores_by_cell.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:cell_resource_scores.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:hybrid_suitability.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:cell_p50_yield.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:cell_physics_yield.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:cell_risk_spread.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:cell_composite_score.parquet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:physics_validation_report.json",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:risk_stress_report.json",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:outputs/ny_composite_ranked.geojson",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:outputs/ny_solar_screening.geojson",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:outputs/ny_wind_screening.geojson",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:outputs/ny_hybrid_suitability.geojson",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:maps/developability_ny.html",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:maps/solar_resource_ny.html",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:maps/wind_resource_ny.html",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:maps/composite_score_ny.html",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:maps/hybrid_seasonal_suitability_ny.html",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "exists:maps/risk_spread_ny.html",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "solar_wind_same_n",
+      "ok": true,
+      "detail": "1089 vs 1089"
+    },
+    {
+      "check": "hybrid_same_n",
+      "ok": true,
+      "detail": "1089"
+    },
+    {
+      "check": "composite_same_n",
+      "ok": true,
+      "detail": "1089"
+    },
+    {
+      "check": "scored_lte_gateway",
+      "ok": true,
+      "detail": "scored=1089 gateway=2223"
+    },
+    {
+      "check": "scored_cells_gte_baseline",
+      "ok": true,
+      "detail": "n=1089 (v1 baseline 1024)"
+    },
+    {
+      "check": "weather_feature_count_gte_80",
+      "ok": true,
+      "detail": "cols=84"
+    },
+    {
+      "check": "daytime_shortwave_min",
+      "ok": true,
+      "detail": "min=253.2 W/m2"
+    },
+    {
+      "check": "daytime_shortwave_max",
+      "ok": true,
+      "detail": "max=338.5 W/m2"
+    },
+    {
+      "check": "yield_solar_cv_r2",
+      "ok": true,
+      "detail": "r2=0.047275545644875794"
+    },
+    {
+      "check": "yield_wind_cv_r2",
+      "ok": true,
+      "detail": "r2=0.11275663342260134"
+    },
+    {
+      "check": "risk_spread_gt_v1",
+      "ok": true,
+      "detail": "mean=0.0059"
+    },
+    {
+      "check": "composite_p50_source_documented",
+      "ok": true,
+      "detail": "xgb"
+    },
+    {
+      "check": "solar_cv_r2_present",
+      "ok": true,
+      "detail": "r2=0.8230209663853795"
+    },
+    {
+      "check": "solar_cv_r2_positive",
+      "ok": true,
+      "detail": "r2=0.823"
+    },
+    {
+      "check": "wind_cv_r2_present",
+      "ok": true,
+      "detail": "r2=0.5063597685481106"
+    },
+    {
+      "check": "wind_cv_r2_positive",
+      "ok": true,
+      "detail": "r2=0.506"
+    },
+    {
+      "check": "solar_p90_lte_p50",
+      "ok": true,
+      "detail": "0 cells violate"
+    },
+    {
+      "check": "wind_p90_lte_p50",
+      "ok": true,
+      "detail": "0 cells violate"
+    },
+    {
+      "check": "composite_score_range",
+      "ok": true,
+      "detail": "8.4\u201375.7"
+    },
+    {
+      "check": "jackpot_zones",
+      "ok": true,
+      "detail": "n=143"
+    },
+    {
+      "check": "optional:county_population",
+      "ok": true,
+      "detail": "run 04b if missing"
+    },
+    {
+      "check": "optional:cell_geoid",
+      "ok": true,
+      "detail": "run 04b if missing"
+    },
+    {
+      "check": "optional:population_in_master",
+      "ok": true,
+      "detail": "thesis default off (OK if False)"
+    }
+  ]
+}

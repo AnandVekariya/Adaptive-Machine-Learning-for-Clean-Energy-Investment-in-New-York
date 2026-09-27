@@ -1,0 +1,54 @@
+target: shortwave_mean
+model_type: land_adjusted
+features:
+- latitude
+- longitude
+- dist_to_transmission_km
+- temperature_mean
+- surface_pressure_mean
+- frac_class_11
+- frac_class_12
+- frac_class_21
+- frac_class_22
+- frac_class_23
+- frac_class_24
+- frac_class_31
+- frac_class_41
+- frac_class_42
+- frac_class_43
+- frac_class_52
+- frac_class_71
+- frac_class_81
+- frac_class_82
+- frac_class_90
+- frac_class_95
+n_cells: 1089
+cv_group: spatial_block
+cv_land_adjusted_oof:
+  r2: 0.8230209663853795
+  mae: 1.846754342071281
+  rmse: 2.7456772939058545
+cv_folds:
+- fold: 0
+  r2: 0.899054765701294
+  mae: 1.711801528930664
+- fold: 1
+  r2: 0.7381548881530762
+  mae: 2.199352264404297
+- fold: 2
+  r2: 0.8700091242790222
+  mae: 1.5411133766174316
+- fold: 3
+  r2: 0.7952985763549805
+  mae: 1.9238462448120117
+- fold: 4
+  r2: 0.6884732842445374
+  mae: 1.8580119609832764
+feature_set: v1_hybrid_primary
+ablation_r1_extended_oof_r2: 0.9626587228435971
+r1_delta_r2: 0.13963775645821763
+scoring_columns:
+  observed: resource_observed
+  screening: resource_screening_score
+  land_adj_oof: resource_land_adj_oof
+  opportunity_oof: resource_opportunity_oof

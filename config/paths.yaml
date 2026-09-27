@@ -1,0 +1,23 @@
+# Notebook-compatible path schema. Hyperparameters live in config/config.yaml.
+# Path values below stay in sync with config.yaml → paths.
+
+data:
+  raw:
+    grid_weather_dir: data/raw_solar_wind_hourly_data
+    county_solar_dir: data/ny_county_solar_hourly_API_Data
+    county_wind_dir: data/ny-county_Wind_hourly_API_Data
+    nlcd_ny_csv: data/model_data/Annual_NLCD_LndCov_2024_NY_only.csv
+    eia_generation_csv: data/model_data/NY_Greation_Data_with_nlcd.csv
+    transmission_geojson: data/US_Electric_Power_Transmission_Lin2es_-6976209181916424225.geojson
+  processed_dir: data/processed
+  scratch_dir: data/processed/scratch
+  ref_dir: data/ref
+
+outputs_dir: outputs
+models_dir: models
+maps_dir: maps
+
+weather:
+  grid_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  # County wind API is incomplete; wind features use the 10 km grid.
+  wind_source: grid_10km

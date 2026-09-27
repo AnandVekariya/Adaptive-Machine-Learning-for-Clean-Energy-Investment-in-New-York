@@ -1,0 +1,30 @@
+{
+  "D_cutoffs": {
+    "0.1": {
+      "pass_all": 2815,
+      "pass_ny": 1401
+    },
+    "0.15": {
+      "pass_all": 2612,
+      "pass_ny": 1219
+    },
+    "0.2": {
+      "pass_all": 2223,
+      "pass_ny": 1089
+    },
+    "0.25": {
+      "pass_all": 1884,
+      "pass_ny": 1006
+    },
+    "0.3": {
+      "pass_all": 1628,
+      "pass_ny": 926
+    }
+  },
+  "note": "Hard NLCD rules held fixed; only D_MIN varies. Buffer sensitivity: current run uses 7 km NLCD buffer; 5 km was an earlier baseline (v1 fail_no_nlcd=721 vs 703).",
+  "nlcd_buffer": {
+    "current_m": 7000,
+    "v1_baseline_fail_no_nlcd": 721,
+    "current_fail_no_nlcd": 703
+  }
+}

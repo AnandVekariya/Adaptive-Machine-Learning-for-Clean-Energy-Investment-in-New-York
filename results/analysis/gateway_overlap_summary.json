@@ -1,0 +1,30 @@
+{
+  "n_cells": 4401,
+  "n_fail_any": 2178,
+  "n_fail_multiple_rules": 34,
+  "counts": {
+    "Water >50%": 316,
+    "Developed >20%": 513,
+    "Wetland >30%": 23,
+    "Ice/snow >30%": 0,
+    "Low D (<0.20)": 658,
+    "Missing NLCD": 703
+  },
+  "exclusive_counts": {
+    "Water >50%": 291,
+    "Developed >20%": 485,
+    "Wetland >30%": 15,
+    "Ice/snow >30%": 0,
+    "Low D (<0.20)": 650,
+    "Missing NLCD": 703
+  },
+  "report_fail_counts": {
+    "fail_water": 316,
+    "fail_developed": 513,
+    "fail_wetland": 23,
+    "fail_ice": 0,
+    "fail_low_D": 658,
+    "fail_no_nlcd": 703,
+    "fail_population": 0
+  }
+}

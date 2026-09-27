@@ -1,0 +1,49 @@
+Bootstrap: docker
+From: python:3.12-slim-bookworm
+
+%labels
+    Author clean-energy-ny
+    Version 1.0
+    Description NY clean energy ML pipeline (Python 3.12 + GDAL)
+
+%environment
+    export GDAL_CONFIG=/usr/bin/gdal-config
+    export CPLUS_INCLUDE_PATH=/usr/include/gdal
+    export C_INCLUDE_PATH=/usr/include/gdal
+    export PYTHONUNBUFFERED=1
+    export PYTHONDONTWRITEBYTECODE=1
+    export PYTHONPATH=/app
+
+%post
+    apt-get update && apt-get install -y --no-install-recommends \
+        gdal-bin \
+        libgdal-dev \
+        proj-bin \
+        libproj-dev \
+        libgeos-dev \
+        libgeos-c1v5 \
+        libexpat1 \
+        build-essential \
+        curl \
+        && rm -rf /var/lib/apt/lists/*
+
+    mkdir -p /app/data /app/data/processed /app/models /app/outputs /app/src /app/scripts
+
+    cd /app
+    # requirements.txt must be copied into the build context (repo root)
+    pip install --upgrade pip
+    pip install -r requirements.txt
+
+%files
+    requirements.txt /app/requirements.txt
+    src /app/src
+    scripts /app/scripts
+
+%runscript
+    exec "$@"
+
+%help
+    Optional Linux container. Desktop setup: conda env create -f environment.yml
+      apptainer exec -B $PWD:$PWD clean-energy-ml.sif python scripts/check_setup.py
+      apptainer exec -B $PWD:$PWD clean-energy-ml.sif python scripts/rebuild_v7_consistency_figures.py
+

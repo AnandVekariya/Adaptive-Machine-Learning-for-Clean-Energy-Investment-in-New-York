@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Adaptive Machine Learning for Clean Energy Investment in New York"
+authors:
+  - family-names: "[LAST]"
+    given-names: "[FIRST]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "[LAST]"
+    given-names: "[FIRST]"
+version: "0.1.0"
+date-released: "2026-09-21"
+license: MIT
+repository-code: "https://github.com/[ORG]/REPO]"
+type: software
+abstract: >-
+  Statewide ~10 km grid screening for utility-scale solar and wind in New York:
+  multi-year hourly weather, NLCD land cover, transmission proximity,
+  developability filters, resource models, seasonal hybrid suitability,
+  risk stress, and a composite investment score.
+keywords:
+  - clean energy
+  - solar
+  - wind
+  - machine learning
+  - New York
+  - site screening
+preferred-citation:
+  type: article
+  title: "Adaptive Machine Learning for Clean Energy Investment in New York"
+  authors:
+    - family-names: "[LAST]"
+      given-names: "[FIRST]"
+  year: 2026
+  journal: "[JOURNAL]"
+  doi: "10.xxxx/xxxxx"

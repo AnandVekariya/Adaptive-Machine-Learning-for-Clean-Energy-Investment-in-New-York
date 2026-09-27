@@ -1,0 +1,9 @@
+{
+  "v1_mean_hybrid_risk_spread": 0.0012591377100067015,
+  "v1_display_rounded": 0.0013,
+  "v2_mean_hybrid_risk_spread": 0.005890082202831345,
+  "v2_display_rounded": 0.0059,
+  "ratio_v2_over_v1": 4.677869748496371,
+  "source_v1": "data/processed/baseline_v1/cell_risk_spread.parquet",
+  "note": "Archived risk_stress_report.v1_baseline_mean_hybrid_risk_spread=0.001 was truncated; parquet mean\u22480.00126\u21920.0013."
+}

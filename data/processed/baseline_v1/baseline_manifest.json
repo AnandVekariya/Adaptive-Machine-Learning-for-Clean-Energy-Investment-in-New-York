@@ -1,0 +1,52 @@
+{
+  "snapshot_at_utc": "2026-06-17T15:17:09.091627+00:00",
+  "roadmap": "ROADMAP2 Phase R0",
+  "source": "v1 thesis baseline (Phases 0-9 complete)",
+  "files": {
+    "parquet": [
+      "cell_clusters.parquet",
+      "cell_composite_score.parquet",
+      "cell_county_geoid.parquet",
+      "cell_p50_yield.parquet",
+      "cell_p90_yield.parquet",
+      "cell_resource_scores.parquet",
+      "cell_risk_spread.parquet",
+      "cells_passing_gateway.parquet",
+      "eia_facility_annual.parquet",
+      "eia_facility_features.parquet",
+      "grid_nlcd_fractional.parquet",
+      "grid_transmission_distance.parquet",
+      "hybrid_suitability.parquet",
+      "modeling_master_cell.parquet",
+      "solar_scores_by_cell.parquet",
+      "weather_cell_features.parquet",
+      "wind_scores_by_cell.parquet"
+    ],
+    "reports": [
+      "composite_score_report.json",
+      "gateway_filter_report.json",
+      "pipeline_validation_report.json",
+      "risk_stress_report.json",
+      "seasonal_gap_report.json",
+      "solar_resource_cv_report.json",
+      "temporal_parity_report.json",
+      "wind_resource_cv_report.json",
+      "yield_solar_cv_report.json",
+      "yield_wind_cv_report.json"
+    ],
+    "outputs": [
+      "ny_composite_ranked.geojson",
+      "ny_hybrid_suitability.geojson",
+      "ny_solar_screening.geojson",
+      "ny_wind_screening.geojson"
+    ],
+    "dashboard": [
+      "dashboard_summary.json",
+      "ny_composite_ranked.geojson",
+      "ny_hybrid_suitability.geojson",
+      "ny_solar_screening.geojson",
+      "ny_wind_screening.geojson",
+      "top50_composite_ranked.csv"
+    ]
+  }
+}

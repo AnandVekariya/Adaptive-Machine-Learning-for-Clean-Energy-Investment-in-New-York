@@ -1,0 +1,13 @@
+{
+  "reconstruction_max_abs_err": 0.0,
+  "variance_shares_cov": {
+    "R (resource)": 0.604246432456386,
+    "Seasonal": 0.21110737287163323,
+    "P50": 0.2673907883271974,
+    "Risk (\u2212)": -0.10189982070783715,
+    "D (land blend)": 0.01915522705262083
+  },
+  "spearman_R_vs_P50": 0.03860731543808685,
+  "spearman_R_vs_Seasonal": 0.7882923718068614,
+  "note": "Variance shares are cov(component,S)/var(S); signed risk term included."
+}

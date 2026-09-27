@@ -1,0 +1,9 @@
+{
+  "n_scored_cells_means": 1089,
+  "n_jackpot_zones": 143,
+  "mean_solar_seasonal_drop_frac_statewide_scored": 0.5621741586742212,
+  "mean_wind_winter_lift_frac_statewide_scored": 0.6911064743024449,
+  "interpretation": "The \u221256% summer\u2192winter solar drop and +69% winter vs summer wind lift are means over all 1,089 scored NY cells (seasonal_gap_report), not jackpot-only. Jackpot n=143 is the dual top-quartile co-occurrence count.",
+  "jackpot_only_mean_solar_drop_frac": 0.5980530726647485,
+  "jackpot_only_mean_wind_lift_frac": 0.8004661448535585
+}

@@ -1,0 +1,57 @@
+{
+  "target": "wind_power_mean",
+  "model_type": "land_adjusted",
+  "features": [
+    "latitude",
+    "longitude",
+    "dist_to_transmission_km",
+    "temperature_mean",
+    "surface_pressure_mean",
+    "frac_class_11",
+    "frac_class_12",
+    "frac_class_21",
+    "frac_class_22",
+    "frac_class_23",
+    "frac_class_24",
+    "frac_class_31",
+    "frac_class_41",
+    "frac_class_42",
+    "frac_class_43",
+    "frac_class_52",
+    "frac_class_71",
+    "frac_class_81",
+    "frac_class_82",
+    "frac_class_90",
+    "frac_class_95"
+  ],
+  "feature_set": "v1_hybrid_primary",
+  "n_cells": 1089,
+  "cv_land_adjusted_oof": {
+    "r2": 0.5063597685481106,
+    "mae": 9.561286427101157
+  },
+  "cv_folds": [
+    {
+      "fold": 0,
+      "r2": 0.5007630586624146
+    },
+    {
+      "fold": 1,
+      "r2": 0.5219247341156006
+    },
+    {
+      "fold": 2,
+      "r2": 0.5336684584617615
+    },
+    {
+      "fold": 3,
+      "r2": 0.5126878619194031
+    },
+    {
+      "fold": 4,
+      "r2": 0.25980085134506226
+    }
+  ],
+  "ablation_r1_extended_oof_r2": 0.9868151970190155,
+  "r1_delta_r2": 0.48045542847090494
+}

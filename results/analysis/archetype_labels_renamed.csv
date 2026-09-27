@@ -1,0 +1,5 @@
+old_label,new_label,display,n_cells,mean_composite,cluster_id
+C_moderate_safe,A_higher_S_safe,A higher-S safe,175,54.66131444313262,2
+A_prime_balanced,B_mid_S_balanced,B mid-S balanced,228,49.48950227957405,0
+D_lower_tier,C_lower_S_tier,C lower-S tier,399,33.91328412859513,3
+B_high_yield_risk,D_high_yield_risk,D high-yield / higher-risk,287,32.105446290590415,1

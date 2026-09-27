@@ -1,0 +1,187 @@
+{
+  "cv_group": "plant_id",
+  "training_unit": "plant_year",
+  "selected_model": "ens_ridge05_xgb_mw_plant",
+  "model_kind": "ensemble",
+  "cv_oof": {
+    "r2": 0.047275545644875794,
+    "mae": 0.012072668121517315,
+    "rmse": 0.01616015293426003
+  },
+  "cv_folds": [
+    {
+      "fold": 0,
+      "r2": 0.0627564787864685,
+      "mae": 0.012000461108982563
+    },
+    {
+      "fold": 1,
+      "r2": 0.028456807136535645,
+      "mae": 0.012089707888662815
+    },
+    {
+      "fold": 2,
+      "r2": 0.043144404888153076,
+      "mae": 0.011864442378282547
+    },
+    {
+      "fold": 3,
+      "r2": 0.06098532676696777,
+      "mae": 0.012543867342174053
+    },
+    {
+      "fold": 4,
+      "r2": 0.0300789475440979,
+      "mae": 0.011865762993693352
+    }
+  ],
+  "model_leaderboard": [
+    {
+      "model": "ens_ridge05_xgb_mw_plant",
+      "cv_group": "plant_id",
+      "training_unit": "plant_year",
+      "r2": 0.047275545644875794,
+      "mae": 0.012072668121517315,
+      "rmse": 0.01616015293426003
+    },
+    {
+      "model": "ridge_year_v2_mw_plant_a05",
+      "cv_group": "plant_id",
+      "training_unit": "plant_year",
+      "r2": 0.03165784403539551,
+      "mae": 0.012203605075629214,
+      "rmse": 0.016292068580517093
+    },
+    {
+      "model": "ridge_year_v2_mw_plant",
+      "cv_group": "plant_id",
+      "training_unit": "plant_year",
+      "r2": 0.031444898058763826,
+      "mae": 0.012210629333291407,
+      "rmse": 0.016293859858383924
+    },
+    {
+      "model": "ridge_year_v2_plant",
+      "cv_group": "plant_id",
+      "training_unit": "plant_year",
+      "r2": 0.020114090671912388,
+      "mae": 0.012294711761873793,
+      "rmse": 0.016388890984156287
+    },
+    {
+      "model": "physics_cal_plant",
+      "cv_group": "plant_id",
+      "training_unit": "one_row_per_plant",
+      "r2": -0.003864825902935465,
+      "mae": 0.021392941428520815,
+      "rmse": 0.030591737472072156
+    },
+    {
+      "model": "xgb_reg_plant_v1_spatial",
+      "cv_group": "spatial_block",
+      "training_unit": "one_row_per_plant",
+      "r2": -0.004484552004350828,
+      "mae": 0.019735751781022912,
+      "rmse": 0.028197348083952675
+    },
+    {
+      "model": "physics_cal_plant_spatial",
+      "cv_group": "spatial_block",
+      "training_unit": "one_row_per_plant",
+      "r2": -0.006509226022301862,
+      "mae": 0.02133039036468166,
+      "rmse": 0.030632003644975044
+    },
+    {
+      "model": "xgb_reg_plant_v1_plant",
+      "cv_group": "plant_id",
+      "training_unit": "one_row_per_plant",
+      "r2": -0.006856265663587102,
+      "mae": 0.01970336481749886,
+      "rmse": 0.028230617190150145
+    },
+    {
+      "model": "xgb_year_v2_plant",
+      "cv_group": "plant_id",
+      "training_unit": "plant_year",
+      "r2": -0.016460781429710414,
+      "mae": 0.012339190400441236,
+      "rmse": 0.016691951857371802
+    },
+    {
+      "model": "ridge_plant_v1_plant",
+      "cv_group": "plant_id",
+      "training_unit": "one_row_per_plant",
+      "r2": -0.02118240838032448,
+      "mae": 0.019774260150247216,
+      "rmse": 0.028430748714189498
+    },
+    {
+      "model": "ridge_plant_v1_spatial",
+      "cv_group": "spatial_block",
+      "training_unit": "one_row_per_plant",
+      "r2": -0.038986116672776516,
+      "mae": 0.020115064757870425,
+      "rmse": 0.02867751441056513
+    },
+    {
+      "model": "huber_plant_v1_plant",
+      "cv_group": "plant_id",
+      "training_unit": "one_row_per_plant",
+      "r2": -0.04130113141134628,
+      "mae": 0.018724847354993256,
+      "rmse": 0.02870944550548017
+    },
+    {
+      "model": "xgb_plant_v1_plant",
+      "cv_group": "plant_id",
+      "training_unit": "one_row_per_plant",
+      "r2": -0.08871225411540018,
+      "mae": 0.019177670295502432,
+      "rmse": 0.029355750647324902
+    },
+    {
+      "model": "xgb_plant_v1_spatial",
+      "cv_group": "spatial_block",
+      "training_unit": "one_row_per_plant",
+      "r2": -0.282820784265319,
+      "mae": 0.02268563689934943,
+      "rmse": 0.03186541862864976
+    },
+    {
+      "model": "xgb_year_v2_spatial",
+      "cv_group": "spatial_block",
+      "training_unit": "plant_year",
+      "r2": -0.28770285240954174,
+      "mae": 0.014450875953450482,
+      "rmse": 0.01878752791810714
+    },
+    {
+      "model": "physics_raw_plant",
+      "cv_group": "spatial_block",
+      "training_unit": "one_row_per_plant",
+      "r2": -9.216785430908203,
+      "mae": 0.09389560669660568,
+      "rmse": 0.09759411742623404
+    }
+  ],
+  "technology": "solar",
+  "features": [
+    "Latitude",
+    "Longitude",
+    "shortwave_mean",
+    "direct_mean",
+    "diffuse_mean",
+    "temperature_mean",
+    "surface_pressure_mean",
+    "shortwave_diurnal_amplitude",
+    "clear_sky_index",
+    "direct_diffuse_ratio",
+    "nameplate_mw"
+  ],
+  "n_plant_years": 1463,
+  "n_plants": 412,
+  "min_nameplate_mw": 5.0,
+  "scoring_nameplate_mw": 14.0,
+  "selection_rule": "max_oof_r2_then_min_mae"
+}

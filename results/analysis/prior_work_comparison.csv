@@ -1,0 +1,4 @@
+Study,Region,Resolution,Criteria,Weighting,Validation,ML
+Van Haaren & Fthenakis (2011),New York,GIS SMCA (coarse),Wind + exclusions,SMCA,Limited,No
+Janke (2010),Colorado,Raster GIS,Solar/wind multi-criteria,Weighted overlay,Limited,No
+This study (Phase 1),New York,~10 km / 0.09°,"Gateway, observed R, seasonal, P50, risk, D",Heuristic + personas,Spatial CV; EIA/queue descriptive,XGB diagnostics only

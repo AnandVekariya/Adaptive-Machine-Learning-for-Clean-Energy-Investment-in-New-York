@@ -1,0 +1,16 @@
+{
+  "degree_spacing_lat": 0.09000000000000341,
+  "degree_spacing_lon_median": 0.09000000000000341,
+  "approx_cell_km_NS_at_42_5N": 9.993683124928735,
+  "approx_cell_km_EW_at_42_5N_same_delta": 7.395043472893245,
+  "approx_cell_area_km2": 73.9037211631676,
+  "crs_distances": "EPSG:32618 (UTM zone 18N)",
+  "percentile_method": "rank(average)/n * 100 on the 1,089 scored NY cells",
+  "hybrid_R_definition": "R = percentile of hybrid_screening_score; hybrid_screening_score = mean(solar_observed_pct, wind_observed_pct)",
+  "P50_source": "xgb",
+  "solar_yield_cv_r2": 0.047275545644875794,
+  "stress_method": "full_year_p5",
+  "stress_percentile": 0.05,
+  "weather_2025_end": "2025-10-31 (partial year)",
+  "D_norm_implementation": "Equal blend of developability percentile and inverted transmission-distance percentile (near-grid preference folded into land term)"
+}

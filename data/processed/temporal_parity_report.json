@@ -1,0 +1,70 @@
+{
+  "generated_at_utc": "2026-06-17T15:37:39.587202+00:00",
+  "wind_source_policy": "grid_10km",
+  "target_years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "layers": {
+    "grid_10km": {
+      "path": "data/raw_solar_wind_hourly_data",
+      "years_found": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "years_missing": [],
+      "ready_for_phase1": true
+    },
+    "county_solar": {
+      "path": "data/ny_county_solar_hourly_API_Data",
+      "years_found": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "years_missing": [
+        2025
+      ]
+    },
+    "county_wind": {
+      "path": "data/ny-county_Wind_hourly_API_Data",
+      "years_found": [
+        2014,
+        2015,
+        2018,
+        2019,
+        2020
+      ],
+      "years_missing": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "status": "incomplete_api_gap_fill_deferred"
+    }
+  },
+  "phase0_gate": {
+    "county_wind_parity": false,
+    "grid_wind_fallback_accepted": true,
+    "proceed_to_phase1": true,
+    "note": "County wind 2021-2025 gap-fill deferred (Open-Meteo unavailable). Phase 1 uses 10 km grid wind_speed_10m for aligned 2018-2025 features."
+  }
+}

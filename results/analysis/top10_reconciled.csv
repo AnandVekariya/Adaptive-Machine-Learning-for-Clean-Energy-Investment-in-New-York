@@ -1,0 +1,11 @@
+rank,corridor_label,county,latitude,longitude,composite_score,jackpot_zone,dist_to_transmission_km
+1,Bath–Avoca corridor,Steuben,42.12,-77.55,75.65656565656565,False,1.6680278391516932
+2,Hornell–west Steuben/Allegany,Allegany,42.12,-77.82,73.54912764003672,True,2.425604567813022
+3,Hornell–west Steuben/Allegany,Allegany,42.21,-77.82,73.34710743801652,False,1.0814355174959533
+4,Avoca–Bath mid corridor,Steuben,42.03,-77.64,72.79155188246096,True,8.29865806739045
+5,Bath–Avoca corridor,Steuben,42.03,-77.55,72.6951331496786,True,3.9995665415412787
+6,Bath–Avoca corridor,Steuben,42.21,-77.55,72.57116620752984,False,0.6806829372691704
+7,Hornell–Avoca corridor,Steuben,42.21,-77.73,71.86409550045911,False,5.656031301319064
+8,Grahamsville / Catskills,Sullivan,41.85,-74.85,71.83195592286502,False,0.9791485832128577
+9,Avoca–Bath mid corridor,Steuben,42.12,-77.64,71.76997245179061,False,8.734852780830403
+10,Avoca–Bath mid corridor,Steuben,42.21,-77.64,71.63452708907255,False,6.089571840411873

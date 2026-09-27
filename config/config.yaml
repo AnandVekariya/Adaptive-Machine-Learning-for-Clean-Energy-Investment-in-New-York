@@ -1,0 +1,90 @@
+# Consolidated paths + key hyperparameters for the NY clean energy release.
+# Paths are relative to the repository root. Numeric values match existing
+# notebook / script constants (do not change without regenerating baselines).
+
+paths:
+  data:
+    raw:
+      grid_weather_dir: data/raw_solar_wind_hourly_data
+      county_solar_dir: data/ny_county_solar_hourly_API_Data
+      county_wind_dir: data/ny-county_Wind_hourly_API_Data
+      nlcd_ny_csv: data/model_data/Annual_NLCD_LndCov_2024_NY_only.csv
+      eia_generation_csv: data/model_data/NY_Greation_Data_with_nlcd.csv
+      transmission_geojson: data/US_Electric_Power_Transmission_Lin2es_-6976209181916424225.geojson
+    processed_dir: data/processed
+    scratch_dir: data/processed/scratch
+    ref_dir: data/ref
+  outputs_dir: outputs
+  models_dir: models
+  maps_dir: maps
+  results_figures: results/figures
+  results_tables: results/tables
+  results_analysis: results/analysis
+
+weather:
+  grid_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  # County wind API is incomplete; wind features use the 10 km grid.
+  wind_source: grid_10km
+
+# RANDOM_STATE in pipeline notebooks (07/08/10/13) and bootstrap seeds in figure scripts.
+random:
+  seed: 42
+
+composite:
+  n_clusters: 4  # N_CLUSTERS in 13_composite_score.ipynb
+  # Default Eq. (S) weights (W_RESOURCE … W_LAND)
+  weights:
+    resource: 0.35
+    seasonal: 0.15
+    yield: 0.30
+    risk: 0.10
+    land: 0.10
+  personas:
+    balanced:
+      resource: 0.35
+      seasonal: 0.15
+      yield: 0.30
+      risk: 0.10
+      land: 0.10
+    resource_first:
+      resource: 0.55
+      seasonal: 0.15
+      yield: 0.15
+      risk: 0.05
+      land: 0.10
+    conservative:
+      resource: 0.25
+      seasonal: 0.15
+      yield: 0.20
+      risk: 0.25
+      land: 0.15
+    yield_focus:
+      resource: 0.20
+      seasonal: 0.10
+      yield: 0.45
+      risk: 0.10
+      land: 0.15
+  perturbations:
+    risk_plus_10pct:
+      resource: 0.35
+      seasonal: 0.15
+      yield: 0.25
+      risk: 0.15
+      land: 0.10
+    resource_plus_10pct:
+      resource: 0.45
+      seasonal: 0.15
+      yield: 0.25
+      risk: 0.10
+      land: 0.05
+  # Zero-P50 ablation S0 (figure / sensitivity scripts)
+  zero_p50_ablation:
+    resource: 0.50
+    seasonal: 0.20
+    yield: 0.00
+    risk: 0.15
+    land: 0.15
+
+bootstrap:
+  n_boot: 1000
+  seed: 42

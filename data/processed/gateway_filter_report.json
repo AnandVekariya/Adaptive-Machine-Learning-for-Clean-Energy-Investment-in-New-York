@@ -1,0 +1,41 @@
+{
+  "input_cells": 4401,
+  "cells_passing": 2223,
+  "cells_excluded": 2178,
+  "pass_rate": 0.5051,
+  "thresholds": {
+    "D_MIN": 0.2,
+    "WATER_FRAC_MAX": 0.5,
+    "DEVELOPED_FRAC_MAX": 0.2,
+    "WETLAND_FRAC_MAX": 0.3,
+    "ICE_FRAC_MAX": 0.3,
+    "POP_DENSITY_MAX": 1000.0
+  },
+  "weights": {
+    "W_AG": 1.0,
+    "W_BARREN": 0.8,
+    "W_OPEN": 0.3,
+    "W_FOREST": 0.4,
+    "W_WET": 1.0
+  },
+  "nlcd_r2": {
+    "option": "A",
+    "cell_radius_m": 7000,
+    "v1_baseline_fail_no_nlcd": 721
+  },
+  "fail_counts": {
+    "fail_water": 316,
+    "fail_developed": 513,
+    "fail_wetland": 23,
+    "fail_ice": 0,
+    "fail_low_D": 658,
+    "fail_no_nlcd": 703,
+    "fail_population": 0
+  },
+  "water_dominant_cells": 316,
+  "water_dominant_excluded": 316,
+  "developability_D_mean_passing": 0.42939457224684513,
+  "developability_D_mean_all": 0.39553724684449765,
+  "cells_in_ny": 1725,
+  "cells_passing_in_ny": 1089
+}

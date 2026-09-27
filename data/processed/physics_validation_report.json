@@ -1,0 +1,27 @@
+{
+  "method": "simplified_hourly_physics",
+  "solar_model": "ghi_pr_temp_derate_no_pvlib",
+  "wind_model": "generic_2p5mw_power_curve_hub80m",
+  "n_ny_cells": 1089,
+  "n_years": 8,
+  "validation_years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "p90_percentile": 0.05,
+  "validation_unit": "cell_year_mean_eia",
+  "solar_vs_eia_r2": -35.24321245672357,
+  "solar_vs_eia_pearson_r": 0.28589631881197436,
+  "solar_vs_eia_n_cell_years": 499,
+  "wind_vs_eia_r2": -17.036912433828316,
+  "wind_vs_eia_pearson_r": -0.09296968069286284,
+  "wind_vs_eia_n_cell_years": 95,
+  "r6_solar_acceptance_target_r2": 0.1,
+  "solar_acceptance_pass": false,
+  "note": "Physics solar CF is resource-grade (~13%); EIA operational CF ~3.5%. Raw R\u00b2 is scale-dominated; Pearson r captures spatial agreement at cell-year level.",
+  "wind_limitation": "Small wind sample (~31 plants); physics curve is screening-grade only"
+}
